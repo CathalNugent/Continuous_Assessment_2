@@ -1,0 +1,2603 @@
+Countrycode,City,Type,Quarter,Variable,Value,Note
+31,Baku,Metro,1Q2020,Pass,50855,
+31,Baku,Metro,2Q2020,Pass,13251.6,
+31,Baku,Metro,3Q2020,Pass,5502.4,
+31,Baku,Metro,4Q2020,Pass,5100.3,
+31,Baku,Metro,1Q2021,Pass,0,
+31,Baku,Metro,2Q2021,Pass,11138.8,
+31,Baku,Metro,3Q2021,Pass,27808.8,
+31,Baku,Metro,4Q2021,Pass,51284.8,
+31,Baku,Metro,1Q2020,PKM,561133.5,
+31,Baku,Metro,2Q2020,PKM,146218.2,
+31,Baku,Metro,3Q2020,PKM,60713.5,
+31,Baku,Metro,4Q2020,PKM,56276.7,
+31,Baku,Metro,1Q2021,PKM,0,
+31,Baku,Metro,2Q2021,PKM,122905.5,
+31,Baku,Metro,3Q2021,PKM,306843.1,
+31,Baku,Metro,4Q2021,PKM,565876.4,
+51,Yerevan,Metro,1Q2019,Pass,4217.6,
+51,Yerevan,Metro,2Q2019,Pass,4979.7,
+51,Yerevan,Metro,3Q2019,Pass,4925.7,
+51,Yerevan,Metro,4Q2019,Pass,5870,
+51,Yerevan,Metro,1Q2020,Pass,3844.5,
+51,Yerevan,Metro,2Q2020,Pass,936,
+51,Yerevan,Metro,3Q2020,Pass,2849.3,
+51,Yerevan,Metro,1Q2019,PKM,16000,
+51,Yerevan,Metro,2Q2019,PKM,18900,
+51,Yerevan,Metro,3Q2019,PKM,18700,
+51,Yerevan,Metro,4Q2019,PKM,22300,
+51,Yerevan,Metro,1Q2020,PKM,14700,
+51,Yerevan,Metro,2Q2020,PKM,3500,
+51,Yerevan,Metro,3Q2020,PKM,10800,
+70,Sarajevo,Tram,1Q2019,Pass,10545,
+70,Sarajevo,Tram,2Q2019,Pass,9871,
+70,Sarajevo,Tram,3Q2019,Pass,8800,
+70,Sarajevo,Tram,4Q2019,Pass,10204,
+70,Sarajevo,Tram,1Q2020,Pass,8618,
+70,Sarajevo,Tram,2Q2020,Pass,4135,
+100,Sofia,Metro,1Q2019,Pass,23728,
+100,Sofia,Metro,2Q2019,Pass,23275,
+100,Sofia,Metro,3Q2019,Pass,20499,
+100,Sofia,Metro,4Q2019,Pass,24913,
+100,Sofia,Metro,1Q2020,Pass,19250,
+100,Sofia,Metro,2Q2020,Pass,8416,
+100,Sofia,Metro,3Q2020,Pass,14677,
+100,Sofia,Metro,4Q2020,Pass,14228,
+100,Sofia,Metro,1Q2021,Pass,13231,
+100,Sofia,Metro,2Q2021,Pass,16641,
+100,Sofia,Metro,3Q2021,Pass,16995,
+100,Sofia,Metro,1Q2019,PKM,213552,
+100,Sofia,Metro,2Q2019,PKM,209475,
+100,Sofia,Metro,3Q2019,PKM,184491,
+100,Sofia,Metro,4Q2019,PKM,224217,
+100,Sofia,Metro,1Q2020,PKM,173250,
+100,Sofia,Metro,2Q2020,PKM,75744,
+100,Sofia,Metro,3Q2020,PKM,132093,
+100,Sofia,Metro,4Q2020,PKM,128052,
+100,Sofia,Metro,1Q2021,PKM,119079,
+100,Sofia,Metro,2Q2021,PKM,149769,
+100,Sofia,Metro,3Q2021,PKM,152955,
+100,Sofia,Tram,1Q2019,Pass,28874,
+100,Sofia,Tram,2Q2019,Pass,27934,
+100,Sofia,Tram,3Q2019,Pass,25596,
+100,Sofia,Tram,4Q2019,Pass,15434,
+100,Sofia,Tram,1Q2020,Pass,27225,
+100,Sofia,Tram,2Q2020,Pass,15129,
+100,Sofia,Tram,3Q2020,Pass,19805,
+100,Sofia,Tram,4Q2020,Pass,17640,
+100,Sofia,Tram,1Q2021,Pass,18312,
+100,Sofia,Tram,2Q2021,Pass,18965,
+100,Sofia,Tram,3Q2021,Pass,17311,
+100,Sofia,Tram,1Q2019,PKM,65601.728,
+100,Sofia,Tram,2Q2019,PKM,63466.048,
+100,Sofia,Tram,3Q2019,PKM,58154.112,
+100,Sofia,Tram,4Q2019,PKM,35066.048,
+100,Sofia,Tram,1Q2020,PKM,61855,
+100,Sofia,Tram,2Q2020,PKM,34373,
+100,Sofia,Tram,3Q2020,PKM,44997,
+100,Sofia,Tram,4Q2020,PKM,40078,
+100,Sofia,Tram,1Q2021,PKM,41605,
+100,Sofia,Tram,2Q2021,PKM,43088,
+100,Sofia,Tram,3Q2021,PKM,39330,
+112,Gomel region,Tram,1Q2019,Pass,159.7,
+112,Gomel region,Tram,2Q2019,Pass,177.5,
+112,Gomel region,Tram,3Q2019,Pass,189.6,
+112,Gomel region,Tram,4Q2019,Pass,187.8,
+112,Gomel region,Tram,1Q2020,Pass,173.2,
+112,Gomel region,Tram,2Q2020,Pass,171.1,
+112,Gomel region,Tram,3Q2020,Pass,170.2,
+112,Gomel region,Tram,4Q2020,Pass,173.3,
+112,Gomel region,Tram,1Q2021,Pass,162.7,
+112,Gomel region,Tram,2Q2021,Pass,174.1,
+112,Gomel region,Tram,3Q2021,Pass,170.2,
+112,Gomel region,Tram,4Q2021,Pass,166.2,
+112,Gomel region,Tram,1Q2019,PKM,2595.4,
+112,Gomel region,Tram,2Q2019,PKM,2810.8,
+112,Gomel region,Tram,3Q2019,PKM,3022.8,
+112,Gomel region,Tram,4Q2019,PKM,3044.8,
+112,Gomel region,Tram,1Q2020,PKM,2822.4,
+112,Gomel region,Tram,2Q2020,PKM,2809.1,
+112,Gomel region,Tram,3Q2020,PKM,2737.7,
+112,Gomel region,Tram,4Q2020,PKM,2822.8,
+112,Gomel region,Tram,1Q2021,PKM,2694.1,
+112,Gomel region,Tram,2Q2021,PKM,2816.5,
+112,Gomel region,Tram,3Q2021,PKM,2747.4,
+112,Gomel region,Tram,4Q2021,PKM,2730.7,
+112,Minsk city,Metro,1Q2019,Pass,74119.5,
+112,Minsk city,Metro,2Q2019,Pass,70909.6,
+112,Minsk city,Metro,3Q2019,Pass,69974,
+112,Minsk city,Metro,4Q2019,Pass,78717.9,
+112,Minsk city,Metro,1Q2020,Pass,70495.2,
+112,Minsk city,Metro,2Q2020,Pass,40748.3,
+112,Minsk city,Metro,3Q2020,Pass,53183.1,
+112,Minsk city,Metro,4Q2020,Pass,54862.9,
+112,Minsk city,Metro,1Q2021,Pass,55460.3,
+112,Minsk city,Metro,2Q2021,Pass,56261.3,
+112,Minsk city,Metro,3Q2021,Pass,55030.5,
+112,Minsk city,Metro,4Q2021,Pass,59515.9,
+112,Minsk city,Metro,1Q2019,PKM,591474,
+112,Minsk city,Metro,2Q2019,PKM,565857.9,
+112,Minsk city,Metro,3Q2019,PKM,558393.3,
+112,Minsk city,Metro,4Q2019,PKM,628168.5,
+112,Minsk city,Metro,1Q2020,PKM,562552,
+112,Minsk city,Metro,2Q2020,PKM,325171.1,
+112,Minsk city,Metro,3Q2020,PKM,424400.1,
+112,Minsk city,Metro,4Q2020,PKM,437806.1,
+112,Minsk city,Metro,1Q2021,PKM,442572.9,
+112,Minsk city,Metro,2Q2021,PKM,448965.6,
+112,Minsk city,Metro,3Q2021,PKM,439143.3,
+112,Minsk city,Metro,4Q2021,PKM,474936.9,
+112,Minsk city,Tram,1Q2019,Pass,8403.9,
+112,Minsk city,Tram,2Q2019,Pass,7938,
+112,Minsk city,Tram,3Q2019,Pass,7915.7,
+112,Minsk city,Tram,4Q2019,Pass,8998.6,
+112,Minsk city,Tram,1Q2020,Pass,8173.1,
+112,Minsk city,Tram,2Q2020,Pass,5064.9,
+112,Minsk city,Tram,3Q2020,Pass,6311.8,
+112,Minsk city,Tram,4Q2020,Pass,6267.7,
+112,Minsk city,Tram,1Q2021,Pass,6216.4,
+112,Minsk city,Tram,2Q2021,Pass,6148.7,
+112,Minsk city,Tram,3Q2021,Pass,5934.1,
+112,Minsk city,Tram,4Q2021,Pass,6326.5,
+112,Minsk city,Tram,1Q2019,PKM,39246.2,
+112,Minsk city,Tram,2Q2019,PKM,37070.5,
+112,Minsk city,Tram,3Q2019,PKM,36966.2,
+112,Minsk city,Tram,4Q2019,PKM,42023.5,
+112,Minsk city,Tram,1Q2020,PKM,38168.4,
+112,Minsk city,Tram,2Q2020,PKM,23653.2,
+112,Minsk city,Tram,3Q2020,PKM,29476.2,
+112,Minsk city,Tram,4Q2020,PKM,29270,
+112,Minsk city,Tram,1Q2021,PKM,29030.7,
+112,Minsk city,Tram,2Q2021,PKM,28714.4,
+112,Minsk city,Tram,3Q2021,PKM,27712.2,
+112,Minsk city,Tram,4Q2021,PKM,29544.7,
+112,Vitebsk region,Tram,1Q2019,Pass,6339.6,
+112,Vitebsk region,Tram,2Q2019,Pass,6027.1,
+112,Vitebsk region,Tram,3Q2019,Pass,5577.3,
+112,Vitebsk region,Tram,4Q2019,Pass,6219.9,
+112,Vitebsk region,Tram,1Q2020,Pass,5555.3,
+112,Vitebsk region,Tram,2Q2020,Pass,4166.3,
+112,Vitebsk region,Tram,3Q2020,Pass,4117.6,
+112,Vitebsk region,Tram,4Q2020,Pass,4422.5,
+112,Vitebsk region,Tram,1Q2021,Pass,4374.4,
+112,Vitebsk region,Tram,2Q2021,Pass,4450.1,
+112,Vitebsk region,Tram,3Q2021,Pass,4168.3,
+112,Vitebsk region,Tram,4Q2021,Pass,4631.9,
+112,Vitebsk region,Tram,1Q2019,PKM,21473.9,
+112,Vitebsk region,Tram,2Q2019,PKM,20480.6,
+112,Vitebsk region,Tram,3Q2019,PKM,18955.6,
+112,Vitebsk region,Tram,4Q2019,PKM,21097.2,
+112,Vitebsk region,Tram,1Q2020,PKM,18915.7,
+112,Vitebsk region,Tram,2Q2020,PKM,14319.1,
+112,Vitebsk region,Tram,3Q2020,PKM,14217.3,
+112,Vitebsk region,Tram,4Q2020,PKM,15210.6,
+112,Vitebsk region,Tram,1Q2021,PKM,15003.6,
+112,Vitebsk region,Tram,2Q2021,PKM,15251.6,
+112,Vitebsk region,Tram,3Q2021,PKM,14301.5,
+112,Vitebsk region,Tram,4Q2021,PKM,15809,
+191,Osijek,Tram,1Q2019,Pass,1269,
+191,Osijek,Tram,2Q2019,Pass,1221,
+191,Osijek,Tram,3Q2019,Pass,863,
+191,Osijek,Tram,4Q2019,Pass,1155,
+191,Osijek,Tram,1Q2020,Pass,1234,
+191,Osijek,Tram,2Q2020,Pass,312,
+191,Osijek,Tram,3Q2020,Pass,582,
+191,Osijek,Tram,4Q2020,Pass,871,
+191,Osijek,Tram,1Q2021,Pass,864,
+191,Osijek,Tram,2Q2021,Pass,899,
+191,Osijek,Tram,3Q2021,Pass,325,
+191,Osijek,Tram,4Q2021,Pass,1011,
+191,Zagreb,Tram,1Q2019,Pass,45518,
+191,Zagreb,Tram,2Q2019,Pass,45569,
+191,Zagreb,Tram,3Q2019,Pass,40092,
+191,Zagreb,Tram,4Q2019,Pass,47773,
+191,Zagreb,Tram,1Q2020,Pass,42105,
+191,Zagreb,Tram,2Q2020,Pass,22641,
+191,Zagreb,Tram,3Q2020,Pass,31660,
+191,Zagreb,Tram,4Q2020,Pass,32023,
+191,Zagreb,Tram,1Q2021,Pass,27486,
+191,Zagreb,Tram,2Q2021,Pass,29508,
+191,Zagreb,Tram,3Q2021,Pass,27498,
+191,Zagreb,Tram,4Q2021,Pass,32080,
+203,Czechia total (excluding Prague),Tram,1Q2019,Pass,84700,
+203,Czechia total (excluding Prague),Tram,2Q2019,Pass,79700,
+203,Czechia total (excluding Prague),Tram,3Q2019,Pass,79900,
+203,Czechia total (excluding Prague),Tram,4Q2019,Pass,90600,
+203,Czechia total (excluding Prague),Tram,1Q2020,Pass,82200,
+203,Czechia total (excluding Prague),Tram,2Q2020,Pass,47900,
+203,Czechia total (excluding Prague),Tram,3Q2020,Pass,66500,
+203,Czechia total (excluding Prague),Tram,4Q2020,Pass,59000,
+203,Czechia total (excluding Prague),Tram,1Q2021,Pass,56800,
+203,Czechia total (excluding Prague),Tram,2Q2021,Pass,54000,
+203,Czechia total (excluding Prague),Tram,3Q2021,Pass,64800,
+203,Czechia total (excluding Prague),Tram,1Q2019,PKM,455100,
+203,Czechia total (excluding Prague),Tram,2Q2019,PKM,437000,
+203,Czechia total (excluding Prague),Tram,3Q2019,PKM,394800,
+203,Czechia total (excluding Prague),Tram,4Q2019,PKM,505600,
+203,Czechia total (excluding Prague),Tram,1Q2020,PKM,451500,
+203,Czechia total (excluding Prague),Tram,2Q2020,PKM,245100,
+203,Czechia total (excluding Prague),Tram,3Q2020,PKM,322400,
+203,Czechia total (excluding Prague),Tram,4Q2020,PKM,356800,
+203,Czechia total (excluding Prague),Tram,1Q2021,PKM,319000,
+203,Czechia total (excluding Prague),Tram,2Q2021,PKM,290000,
+203,Czechia total (excluding Prague),Tram,3Q2021,PKM,320100,
+203,Prague,Metro,1Q2019,Pass,106700,
+203,Prague,Metro,2Q2019,Pass,113000,
+203,Prague,Metro,3Q2019,Pass,103400,
+203,Prague,Metro,4Q2019,Pass,117400,
+203,Prague,Metro,1Q2020,Pass,86400,
+203,Prague,Metro,2Q2020,Pass,48800,
+203,Prague,Metro,3Q2020,Pass,68000,
+203,Prague,Metro,4Q2020,Pass,48200,
+203,Prague,Metro,1Q2021,Pass,38900,
+203,Prague,Metro,2Q2021,Pass,55900,
+203,Prague,Metro,3Q2021,Pass,68000,
+203,Prague,Metro,1Q2019,PKM,1632400,
+203,Prague,Metro,2Q2019,PKM,1679500,
+203,Prague,Metro,3Q2019,PKM,1671600,
+203,Prague,Metro,4Q2019,PKM,1701300,
+203,Prague,Metro,1Q2020,PKM,570400,
+203,Prague,Metro,2Q2020,PKM,321900,
+203,Prague,Metro,3Q2020,PKM,448900,
+203,Prague,Metro,4Q2020,PKM,318100,
+203,Prague,Metro,1Q2021,PKM,256800,
+203,Prague,Metro,2Q2021,PKM,369000,
+203,Prague,Metro,3Q2021,PKM,449000,
+203,Prague,Tram,1Q2019,Pass,100700,
+203,Prague,Tram,2Q2019,Pass,92000,
+203,Prague,Tram,3Q2019,Pass,87500,
+203,Prague,Tram,4Q2019,Pass,90900,
+203,Prague,Tram,1Q2020,Pass,80900,
+203,Prague,Tram,2Q2020,Pass,46800,
+203,Prague,Tram,3Q2020,Pass,50700,
+203,Prague,Tram,4Q2020,Pass,61400,
+203,Prague,Tram,1Q2021,Pass,39200,
+203,Prague,Tram,2Q2021,Pass,55600,
+203,Prague,Tram,3Q2021,Pass,59800,
+203,Prague,Tram,1Q2019,PKM,640200,
+203,Prague,Tram,2Q2019,PKM,658600,
+203,Prague,Tram,3Q2019,PKM,655500,
+203,Prague,Tram,4Q2019,PKM,667200,
+203,Prague,Tram,1Q2020,PKM,242800,
+203,Prague,Tram,2Q2020,PKM,140300,
+203,Prague,Tram,3Q2020,PKM,152200,
+203,Prague,Tram,4Q2020,PKM,184100,
+203,Prague,Tram,1Q2021,PKM,117700,
+203,Prague,Tram,2Q2021,PKM,166900,
+203,Prague,Tram,3Q2021,PKM,179400,
+208,Aarhus,Light rail,1Q2018,Pass,683,
+208,Aarhus,Light rail,2Q2018,Pass,663,
+208,Aarhus,Light rail,3Q2018,Pass,866,
+208,Aarhus,Light rail,4Q2018,Pass,1083,
+208,Aarhus,Light rail,1Q2019,Pass,1156,
+208,Aarhus,Light rail,2Q2019,Pass,1078,
+208,Aarhus,Light rail,3Q2019,Pass,1196,
+208,Aarhus,Light rail,4Q2019,Pass,1358,
+208,Aarhus,Light rail,1Q2020,Pass,1145,
+208,Aarhus,Light rail,2Q2020,Pass,628,
+208,Aarhus,Light rail,3Q2020,Pass,908,
+208,Aarhus,Light rail,4Q2020,Pass,908,
+208,Aarhus,Light rail,1Q2021,Pass,581,
+208,Aarhus,Light rail,2Q2021,Pass,970,
+208,Aarhus,Light rail,3Q2021,Pass,1086,
+208,Aarhus,Light rail,4Q2017,Pass,70,
+208,Aarhus,Light rail,1Q2018,PKM,2000,
+208,Aarhus,Light rail,2Q2018,PKM,2000,
+208,Aarhus,Light rail,3Q2018,PKM,4000,
+208,Aarhus,Light rail,4Q2018,PKM,6000,
+208,Aarhus,Light rail,1Q2019,PKM,7000,
+208,Aarhus,Light rail,2Q2019,PKM,11000,
+208,Aarhus,Light rail,3Q2019,PKM,14000,
+208,Aarhus,Light rail,4Q2019,PKM,19000,
+208,Aarhus,Light rail,1Q2020,PKM,11000,
+208,Aarhus,Light rail,2Q2020,PKM,6000,
+208,Aarhus,Light rail,3Q2020,PKM,9000,
+208,Aarhus,Light rail,4Q2020,PKM,9000,
+208,Aarhus,Light rail,1Q2021,PKM,6000,
+208,Aarhus,Light rail,2Q2021,PKM,9000,
+208,Aarhus,Light rail,3Q2021,PKM,10000,
+208,Copenhagen,Metro,1Q2018,Pass,16017,
+208,Copenhagen,Metro,2Q2018,Pass,16397,
+208,Copenhagen,Metro,3Q2018,Pass,15125,
+208,Copenhagen,Metro,4Q2018,Pass,17154,
+208,Copenhagen,Metro,1Q2019,Pass,16290,
+208,Copenhagen,Metro,2Q2019,Pass,16226,
+208,Copenhagen,Metro,3Q2019,Pass,15728,
+208,Copenhagen,Metro,4Q2019,Pass,30691,
+208,Copenhagen,Metro,1Q2020,Pass,21474,
+208,Copenhagen,Metro,2Q2020,Pass,10424,
+208,Copenhagen,Metro,3Q2020,Pass,16558,
+208,Copenhagen,Metro,4Q2020,Pass,15237,
+208,Copenhagen,Metro,1Q2021,Pass,10534,
+208,Copenhagen,Metro,2Q2021,Pass,16474,
+208,Copenhagen,Metro,3Q2021,Pass,21303,
+208,Copenhagen,Metro,1Q2010,Pass,13500,
+208,Copenhagen,Metro,1Q2011,Pass,14100,
+208,Copenhagen,Metro,1Q2012,Pass,13900,
+208,Copenhagen,Metro,1Q2013,Pass,14200,
+208,Copenhagen,Metro,1Q2014,Pass,14308,
+208,Copenhagen,Metro,1Q2015,Pass,14174,
+208,Copenhagen,Metro,1Q2016,Pass,15113,
+208,Copenhagen,Metro,1Q2017,Pass,16000,
+208,Copenhagen,Metro,2Q2010,Pass,12400,
+208,Copenhagen,Metro,2Q2011,Pass,13100,
+208,Copenhagen,Metro,2Q2012,Pass,13100,
+208,Copenhagen,Metro,2Q2013,Pass,14300,
+208,Copenhagen,Metro,2Q2014,Pass,14077,
+208,Copenhagen,Metro,2Q2015,Pass,14269,
+208,Copenhagen,Metro,2Q2016,Pass,15460,
+208,Copenhagen,Metro,2Q2017,Pass,15549,
+208,Copenhagen,Metro,3Q2010,Pass,12000,
+208,Copenhagen,Metro,3Q2011,Pass,12800,
+208,Copenhagen,Metro,3Q2012,Pass,12600,
+208,Copenhagen,Metro,3Q2013,Pass,12300,
+208,Copenhagen,Metro,3Q2014,Pass,12904,
+208,Copenhagen,Metro,3Q2015,Pass,13377,
+208,Copenhagen,Metro,3Q2016,Pass,14411,
+208,Copenhagen,Metro,3Q2017,Pass,14949,
+208,Copenhagen,Metro,4Q2010,Pass,14600,
+208,Copenhagen,Metro,4Q2011,Pass,14200,
+208,Copenhagen,Metro,4Q2012,Pass,14700,
+208,Copenhagen,Metro,4Q2013,Pass,14600,
+208,Copenhagen,Metro,4Q2014,Pass,14609,
+208,Copenhagen,Metro,4Q2015,Pass,15396,
+208,Copenhagen,Metro,4Q2016,Pass,15939,
+208,Copenhagen,Metro,4Q2017,Pass,16963,
+208,Copenhagen,Metro,1Q2018,PKM,87000,
+208,Copenhagen,Metro,2Q2018,PKM,89000,
+208,Copenhagen,Metro,3Q2018,PKM,82000,
+208,Copenhagen,Metro,4Q2018,PKM,93000,
+208,Copenhagen,Metro,1Q2019,PKM,89000,
+208,Copenhagen,Metro,2Q2019,PKM,88000,
+208,Copenhagen,Metro,3Q2019,PKM,85000,
+208,Copenhagen,Metro,4Q2019,PKM,138000,
+208,Copenhagen,Metro,1Q2020,PKM,98000,
+208,Copenhagen,Metro,2Q2020,PKM,47000,
+208,Copenhagen,Metro,3Q2020,PKM,75000,
+208,Copenhagen,Metro,4Q2020,PKM,69000,
+208,Copenhagen,Metro,1Q2021,PKM,48000,
+208,Copenhagen,Metro,2Q2021,PKM,75000,
+208,Copenhagen,Metro,3Q2021,PKM,96000,
+208,Copenhagen,Metro,1Q2010,PKM,60000,
+208,Copenhagen,Metro,1Q2011,PKM,70000,
+208,Copenhagen,Metro,1Q2012,PKM,68000,
+208,Copenhagen,Metro,1Q2013,PKM,74000,
+208,Copenhagen,Metro,1Q2014,PKM,75000,
+208,Copenhagen,Metro,1Q2015,PKM,75000,
+208,Copenhagen,Metro,1Q2016,PKM,80000,
+208,Copenhagen,Metro,1Q2017,PKM,86000,
+208,Copenhagen,Metro,2Q2010,PKM,55000,
+208,Copenhagen,Metro,2Q2011,PKM,65000,
+208,Copenhagen,Metro,2Q2012,PKM,64000,
+208,Copenhagen,Metro,2Q2013,PKM,73000,
+208,Copenhagen,Metro,2Q2014,PKM,74000,
+208,Copenhagen,Metro,2Q2015,PKM,75000,
+208,Copenhagen,Metro,2Q2016,PKM,82000,
+208,Copenhagen,Metro,2Q2017,PKM,84000,
+208,Copenhagen,Metro,3Q2010,PKM,56000,
+208,Copenhagen,Metro,3Q2011,PKM,67000,
+208,Copenhagen,Metro,3Q2012,PKM,65000,
+208,Copenhagen,Metro,3Q2013,PKM,64000,
+208,Copenhagen,Metro,3Q2014,PKM,68000,
+208,Copenhagen,Metro,3Q2015,PKM,70000,
+208,Copenhagen,Metro,3Q2016,PKM,76000,
+208,Copenhagen,Metro,3Q2017,PKM,80000,
+208,Copenhagen,Metro,4Q2010,PKM,68000,
+208,Copenhagen,Metro,4Q2011,PKM,75000,
+208,Copenhagen,Metro,4Q2012,PKM,76000,
+208,Copenhagen,Metro,4Q2013,PKM,74000,
+208,Copenhagen,Metro,4Q2014,PKM,77000,
+208,Copenhagen,Metro,4Q2015,PKM,81000,
+208,Copenhagen,Metro,4Q2016,PKM,84000,
+208,Copenhagen,Metro,4Q2017,PKM,91000,
+233,Tallinn,Tram,1Q2019,Pass,7290,
+233,Tallinn,Tram,2Q2019,Pass,7745,
+233,Tallinn,Tram,3Q2019,Pass,7074,
+233,Tallinn,Tram,4Q2019,Pass,7703,
+233,Tallinn,Tram,1Q2020,Pass,5885,
+233,Tallinn,Tram,2Q2020,Pass,2254,
+233,Tallinn,Tram,3Q2020,Pass,4816,
+233,Tallinn,Tram,4Q2020,Pass,4259,
+233,Tallinn,Tram,1Q2021,Pass,2740,
+233,Tallinn,Tram,2Q2021,Pass,2982,
+233,Tallinn,Tram,3Q2021,Pass,3937,
+233,Tallinn,Tram,1Q2019,PKM,21359,
+233,Tallinn,Tram,2Q2019,PKM,22693,
+233,Tallinn,Tram,3Q2019,PKM,20725,
+233,Tallinn,Tram,4Q2019,PKM,22570,
+233,Tallinn,Tram,1Q2020,PKM,17243,
+233,Tallinn,Tram,2Q2020,PKM,6603,
+233,Tallinn,Tram,3Q2020,PKM,14110,
+233,Tallinn,Tram,4Q2020,PKM,12477,
+233,Tallinn,Tram,1Q2021,PKM,8028,
+233,Tallinn,Tram,2Q2021,PKM,8736,
+233,Tallinn,Tram,3Q2021,PKM,11535,
+246,Helsinki,Metro,1Q2019,Pass,23184,
+246,Helsinki,Metro,2Q2019,Pass,22645,
+246,Helsinki,Metro,3Q2019,Pass,22031,
+246,Helsinki,Metro,4Q2019,Pass,24703,
+246,Helsinki,Metro,1Q2020,Pass,21062,
+246,Helsinki,Metro,2Q2020,Pass,9638,
+246,Helsinki,Metro,3Q2020,Pass,15113,
+246,Helsinki,Metro,4Q2020,Pass,14554,
+246,Helsinki,Metro,1Q2021,Pass,12361,
+246,Helsinki,Metro,2Q2021,Pass,12824,
+246,Helsinki,Metro,3Q2021,Pass,13817,
+246,Helsinki,Metro,4Q2021,Pass,16965,
+246,Helsinki,Tram,1Q2019,Pass,14879,
+246,Helsinki,Tram,2Q2019,Pass,13718,
+246,Helsinki,Tram,3Q2019,Pass,12645,
+246,Helsinki,Tram,4Q2019,Pass,15522,
+246,Helsinki,Tram,1Q2020,Pass,13390,
+246,Helsinki,Tram,2Q2020,Pass,5301,
+246,Helsinki,Tram,3Q2020,Pass,8554,
+246,Helsinki,Tram,4Q2020,Pass,7634,
+246,Helsinki,Tram,1Q2021,Pass,6952,
+246,Helsinki,Tram,2Q2021,Pass,6658,
+246,Helsinki,Tram,3Q2021,Pass,7731,
+246,Helsinki,Tram,4Q2021,Pass,10189,
+246,Tampere,Tram,4Q2021,Pass,2502,
+250,Paris,Metro,1Q2020,PKM,1357310,
+250,Paris,Metro,2Q2020,PKM,406760,
+250,Paris,Metro,3Q2020,PKM,1171490,
+250,Paris,Metro,4Q2020,PKM,988930,
+250,Paris,Metro,1Q2021,PKM,1031700,
+250,Paris,Metro,2Q2021,PKM,1125800,
+250,Paris,Metro,3Q2021,PKM,1383500,
+268,Tbilisi,Metro,1Q2019,Pass,32300,
+268,Tbilisi,Metro,2Q2019,Pass,36000,
+268,Tbilisi,Metro,3Q2019,Pass,29600,
+268,Tbilisi,Metro,4Q2019,Pass,39800,
+268,Tbilisi,Metro,1Q2020,Pass,28000,
+268,Tbilisi,Metro,2Q2020,Pass,6600,
+268,Tbilisi,Metro,1Q2019,PKM,206700,
+268,Tbilisi,Metro,2Q2019,PKM,230500,
+268,Tbilisi,Metro,3Q2019,PKM,189400,
+268,Tbilisi,Metro,4Q2019,PKM,254500,
+268,Tbilisi,Metro,1Q2020,PKM,179000,
+268,Tbilisi,Metro,2Q2020,PKM,42500,
+348,Budapest,Metro,1Q2019,Pass,80742,
+348,Budapest,Metro,2Q2019,Pass,92345,
+348,Budapest,Metro,3Q2019,Pass,89746,
+348,Budapest,Metro,4Q2019,Pass,91186,
+348,Budapest,Metro,1Q2020,Pass,82257,
+348,Budapest,Metro,2Q2020,Pass,31217,
+348,Budapest,Metro,3Q2020,Pass,64770,
+348,Budapest,Metro,4Q2020,Pass,54540,
+348,Budapest,Metro,1Q2021,Pass,42800,
+348,Budapest,Metro,2Q2021,Pass,47483,
+348,Budapest,Metro,3Q2021,Pass,56195,
+348,Budapest,Metro,4Q2021,Pass,65140,
+348,Budapest,Metro,1Q2019,PKM,344908,
+348,Budapest,Metro,2Q2019,PKM,398661,
+348,Budapest,Metro,3Q2019,PKM,387011,
+348,Budapest,Metro,4Q2019,PKM,392657,
+348,Budapest,Metro,1Q2020,PKM,354786,
+348,Budapest,Metro,2Q2020,PKM,134965,
+348,Budapest,Metro,3Q2020,PKM,276949,
+348,Budapest,Metro,4Q2020,PKM,234202,
+348,Budapest,Metro,1Q2021,PKM,183780,
+348,Budapest,Metro,2Q2021,PKM,203666,
+348,Budapest,Metro,3Q2021,PKM,238509,
+348,Budapest,Metro,4Q2021,PKM,278717,
+348,Budapest,Tram,1Q2019,Pass,111185,
+348,Budapest,Tram,2Q2019,Pass,104105,
+348,Budapest,Tram,3Q2019,Pass,96549,
+348,Budapest,Tram,4Q2019,Pass,105321,
+348,Budapest,Tram,1Q2020,Pass,96827,
+348,Budapest,Tram,2Q2020,Pass,36794,
+348,Budapest,Tram,3Q2020,Pass,73262,
+348,Budapest,Tram,4Q2020,Pass,64288,
+348,Budapest,Tram,1Q2021,Pass,55684,
+348,Budapest,Tram,2Q2021,Pass,60884,
+348,Budapest,Tram,3Q2021,Pass,76732,
+348,Budapest,Tram,4Q2021,Pass,84103,
+348,Budapest,Tram,1Q2019,PKM,308885,
+348,Budapest,Tram,2Q2019,PKM,284113,
+348,Budapest,Tram,3Q2019,PKM,263996,
+348,Budapest,Tram,4Q2019,PKM,286980,
+348,Budapest,Tram,1Q2020,PKM,263640,
+348,Budapest,Tram,2Q2020,PKM,100357,
+348,Budapest,Tram,3Q2020,PKM,198778,
+348,Budapest,Tram,4Q2020,PKM,176419,
+348,Budapest,Tram,1Q2021,PKM,153503,
+348,Budapest,Tram,2Q2021,PKM,168055,
+348,Budapest,Tram,3Q2021,PKM,212535,
+348,Budapest,Tram,4Q2021,PKM,232574,
+348,Debrecen,Tram,1Q2019,Pass,5267.1,
+348,Debrecen,Tram,2Q2019,Pass,4792.7,
+348,Debrecen,Tram,3Q2019,Pass,4421.1,
+348,Debrecen,Tram,4Q2019,Pass,5132.6,
+348,Debrecen,Tram,1Q2020,Pass,5165.9,
+348,Debrecen,Tram,2Q2020,Pass,1609.5,
+348,Debrecen,Tram,3Q2020,Pass,3295.8,
+348,Debrecen,Tram,4Q2020,Pass,3346.2,
+348,Debrecen,Tram,1Q2021,Pass,2630.1,
+348,Debrecen,Tram,2Q2021,Pass,2537.6,
+348,Debrecen,Tram,3Q2021,Pass,3130.9,
+348,Debrecen,Tram,4Q2021,Pass,3901.3,
+348,Debrecen,Tram,1Q2019,PKM,12219.7,
+348,Debrecen,Tram,2Q2019,PKM,11119.1,
+348,Debrecen,Tram,3Q2019,PKM,10257,
+348,Debrecen,Tram,4Q2019,PKM,11907.3,
+348,Debrecen,Tram,1Q2020,PKM,11984.8,
+348,Debrecen,Tram,2Q2020,PKM,3734.1,
+348,Debrecen,Tram,3Q2020,PKM,7646.8,
+348,Debrecen,Tram,4Q2020,PKM,7762.6,
+348,Debrecen,Tram,1Q2021,PKM,6101.9,
+348,Debrecen,Tram,2Q2021,PKM,5887.2,
+348,Debrecen,Tram,3Q2021,PKM,7263.8,
+348,Debrecen,Tram,4Q2021,PKM,9051,
+348,Miskolc,Tram,1Q2019,Pass,6757.6,
+348,Miskolc,Tram,2Q2019,Pass,6560.3,
+348,Miskolc,Tram,3Q2019,Pass,6290.8,
+348,Miskolc,Tram,4Q2019,Pass,6727.6,
+348,Miskolc,Tram,1Q2020,Pass,6364,
+348,Miskolc,Tram,2Q2020,Pass,3855,
+348,Miskolc,Tram,3Q2020,Pass,5434,
+348,Miskolc,Tram,4Q2020,Pass,5128,
+348,Miskolc,Tram,1Q2021,Pass,4370.4,
+348,Miskolc,Tram,2Q2021,Pass,4559.7,
+348,Miskolc,Tram,3Q2021,Pass,4886.3,
+348,Miskolc,Tram,4Q2021,Pass,5271.2,
+348,Miskolc,Tram,1Q2019,PKM,18988.9,
+348,Miskolc,Tram,2Q2019,PKM,18434.4,
+348,Miskolc,Tram,3Q2019,PKM,17677.2,
+348,Miskolc,Tram,4Q2019,PKM,18904.8,
+348,Miskolc,Tram,1Q2020,PKM,17884,
+348,Miskolc,Tram,2Q2020,PKM,10832,
+348,Miskolc,Tram,3Q2020,PKM,15270,
+348,Miskolc,Tram,4Q2020,PKM,14410,
+348,Miskolc,Tram,1Q2021,PKM,12280.9,
+348,Miskolc,Tram,2Q2021,PKM,12812.9,
+348,Miskolc,Tram,3Q2021,PKM,13730.6,
+348,Miskolc,Tram,4Q2021,PKM,14812.2,
+348,Szeged,Tram,1Q2019,Pass,2581.6,
+348,Szeged,Tram,2Q2019,Pass,2050.6,
+348,Szeged,Tram,3Q2019,Pass,1927.8,
+348,Szeged,Tram,4Q2019,Pass,2099.7,
+348,Szeged,Tram,1Q2020,Pass,2578.7,
+348,Szeged,Tram,2Q2020,Pass,812.5,
+348,Szeged,Tram,3Q2020,Pass,1895.6,
+348,Szeged,Tram,4Q2020,Pass,1409.4,
+348,Szeged,Tram,1Q2021,Pass,1367.5,
+348,Szeged,Tram,2Q2021,Pass,1204.2,
+348,Szeged,Tram,3Q2021,Pass,1419.5,
+348,Szeged,Tram,4Q2021,Pass,1456,
+348,Szeged,Tram,1Q2019,PKM,6163.7,
+348,Szeged,Tram,2Q2019,PKM,4872.8,
+348,Szeged,Tram,3Q2019,PKM,4537.4,
+348,Szeged,Tram,4Q2019,PKM,4975.1,
+348,Szeged,Tram,1Q2020,PKM,6158.2,
+348,Szeged,Tram,2Q2020,PKM,1918.2,
+348,Szeged,Tram,3Q2020,PKM,4461.2,
+348,Szeged,Tram,4Q2020,PKM,3346,
+348,Szeged,Tram,1Q2021,PKM,3248.5,
+348,Szeged,Tram,2Q2021,PKM,2837.4,
+348,Szeged,Tram,3Q2021,PKM,3323.4,
+348,Szeged,Tram,4Q2021,PKM,3443.7,
+372,Dublin,Tram,1Q2020,Pass,9520,
+372,Dublin,Tram,2Q2020,Pass,1360,
+372,Dublin,Tram,3Q2020,Pass,4298,
+372,Dublin,Tram,4Q2020,Pass,3998,
+372,Dublin,Tram,1Q2021,Pass,2182,
+372,Dublin,Tram,2Q2021,Pass,4145,
+372,Dublin,Tram,3Q2021,Pass,5906,
+372,Dublin,Tram,4Q2021,Pass,7279,
+428,Daugavpils,Tram,1Q2019,Pass,1940,
+428,Daugavpils,Tram,2Q2019,Pass,1984,
+428,Daugavpils,Tram,3Q2019,Pass,1921,
+428,Daugavpils,Tram,4Q2019,Pass,1507,
+428,Daugavpils,Tram,1Q2020,Pass,1307,
+428,Daugavpils,Tram,2Q2020,Pass,580,
+428,Daugavpils,Tram,3Q2020,Pass,1077,
+428,Daugavpils,Tram,4Q2020,Pass,1218,
+428,Daugavpils,Tram,1Q2021,Pass,653,
+428,Daugavpils,Tram,2Q2021,Pass,895,
+428,Daugavpils,Tram,3Q2021,Pass,1040,
+428,Liepaja,Tram,1Q2019,Pass,603,
+428,Liepaja,Tram,2Q2019,Pass,534,
+428,Liepaja,Tram,3Q2019,Pass,507,
+428,Liepaja,Tram,4Q2019,Pass,628,
+428,Liepaja,Tram,1Q2020,Pass,600,
+428,Liepaja,Tram,2Q2020,Pass,236,
+428,Liepaja,Tram,3Q2020,Pass,466,
+428,Liepaja,Tram,4Q2020,Pass,414,
+428,Liepaja,Tram,1Q2021,Pass,238,
+428,Liepaja,Tram,2Q2021,Pass,316,
+428,Liepaja,Tram,3Q2021,Pass,390,
+428,Riga,Tram,1Q2019,Pass,7903,
+428,Riga,Tram,2Q2019,Pass,7938,
+428,Riga,Tram,3Q2019,Pass,7308,
+428,Riga,Tram,4Q2019,Pass,7984,
+428,Riga,Tram,1Q2020,Pass,6618,
+428,Riga,Tram,2Q2020,Pass,2152,
+428,Riga,Tram,3Q2020,Pass,5157,
+428,Riga,Tram,4Q2020,Pass,4142,
+428,Riga,Tram,1Q2021,Pass,2887,
+428,Riga,Tram,2Q2021,Pass,3622,
+428,Riga,Tram,3Q2021,Pass,4495,
+578,Bergen,Light rail,1Q2020,Pass,4320,
+578,Bergen,Light rail,2Q2020,Pass,2136,
+578,Bergen,Light rail,3Q2020,Pass,2985,
+578,Bergen,Light rail,4Q2020,Pass,2979,
+578,Bergen,Light rail,1Q2021,Pass,2765,
+578,Bergen,Light rail,2Q2021,Pass,3155,
+578,Bergen,Light rail,3Q2021,Pass,3675,
+578,Oslo,Mixed,1Q2020,Pass,32396,
+578,Oslo,Mixed,2Q2020,Pass,17985,
+578,Oslo,Mixed,3Q2020,Pass,23955,
+578,Oslo,Mixed,4Q2020,Pass,22229,
+578,Oslo,Mixed,1Q2021,Pass,17711,
+578,Oslo,Mixed,2Q2021,Pass,20449,
+578,Oslo,Mixed,3Q2021,Pass,27114,
+578,Trondheim,Tram,1Q2020,Pass,270,
+578,Trondheim,Tram,2Q2020,Pass,140,
+578,Trondheim,Tram,3Q2020,Pass,194,
+578,Trondheim,Tram,4Q2020,Pass,192,
+578,Trondheim,Tram,1Q2021,Pass,186,
+578,Trondheim,Tram,2Q2021,Pass,179,
+578,Trondheim,Tram,3Q2021,Pass,192,
+620,Lisbon,Metro,1Q2018,Pass,40380,
+620,Lisbon,Metro,2Q2018,Pass,43343,
+620,Lisbon,Metro,3Q2018,Pass,40337,
+620,Lisbon,Metro,4Q2018,Pass,45108,
+620,Lisbon,Metro,1Q2019,Pass,42952,
+620,Lisbon,Metro,2Q2019,Pass,46420,
+620,Lisbon,Metro,3Q2019,Pass,43911,
+620,Lisbon,Metro,4Q2019,Pass,49792,
+620,Lisbon,Metro,1Q2020,Pass,39860,
+620,Lisbon,Metro,2Q2020,Pass,10762,
+620,Lisbon,Metro,3Q2020,Pass,19441,
+620,Lisbon,Metro,4Q2020,Pass,20496,
+620,Lisbon,Metro,1Q2021,Pass,11653,
+620,Lisbon,Metro,2Q2021,Pass,19266,
+620,Lisbon,Metro,3Q2021,Pass,22194,
+620,Lisbon,Metro,4Q2021,Pass,30573,
+620,Lisbon,Metro,1Q2018,PKM,97563,
+620,Lisbon,Metro,2Q2018,PKM,105245,
+620,Lisbon,Metro,3Q2018,PKM,98743.5,
+620,Lisbon,Metro,4Q2018,PKM,110159,
+620,Lisbon,Metro,1Q2019,PKM,104439,
+620,Lisbon,Metro,2Q2019,PKM,111152.5,
+620,Lisbon,Metro,3Q2019,PKM,105239.5,
+620,Lisbon,Metro,4Q2019,PKM,117933,
+620,Lisbon,Metro,1Q2020,PKM,94285,
+620,Lisbon,Metro,2Q2020,PKM,26285.5,
+620,Lisbon,Metro,3Q2020,PKM,47170.5,
+620,Lisbon,Metro,4Q2020,PKM,48707.5,
+620,Lisbon,Metro,1Q2021,PKM,28121.5,
+620,Lisbon,Metro,2Q2021,PKM,46579.5,
+620,Lisbon,Metro,3Q2021,PKM,53854.5,
+620,Lisbon,Metro,4Q2021,PKM,73290,
+620,Metro Sul do Tejo,Metro,1Q2018,Pass,2975,
+620,Metro Sul do Tejo,Metro,2Q2018,Pass,3224,
+620,Metro Sul do Tejo,Metro,3Q2018,Pass,2810,
+620,Metro Sul do Tejo,Metro,4Q2018,Pass,3300,
+620,Metro Sul do Tejo,Metro,1Q2019,Pass,3270,
+620,Metro Sul do Tejo,Metro,2Q2019,Pass,4037,
+620,Metro Sul do Tejo,Metro,3Q2019,Pass,3888,
+620,Metro Sul do Tejo,Metro,4Q2019,Pass,4369,
+620,Metro Sul do Tejo,Metro,1Q2020,Pass,3690,
+620,Metro Sul do Tejo,Metro,2Q2020,Pass,1610,
+620,Metro Sul do Tejo,Metro,3Q2020,Pass,2743,
+620,Metro Sul do Tejo,Metro,1Q2018,PKM,7464,
+620,Metro Sul do Tejo,Metro,2Q2018,PKM,8455,
+620,Metro Sul do Tejo,Metro,3Q2018,PKM,7432,
+620,Metro Sul do Tejo,Metro,4Q2018,PKM,8524,
+620,Metro Sul do Tejo,Metro,1Q2019,PKM,8340,
+620,Metro Sul do Tejo,Metro,2Q2019,PKM,10082,
+620,Metro Sul do Tejo,Metro,3Q2019,PKM,9522,
+620,Metro Sul do Tejo,Metro,4Q2019,PKM,10424,
+620,Metro Sul do Tejo,Metro,1Q2020,PKM,8889,
+620,Metro Sul do Tejo,Metro,2Q2020,PKM,4328,
+620,Metro Sul do Tejo,Metro,3Q2020,PKM,7403,
+620,Porto,Metro,1Q2018,Pass,15100,
+620,Porto,Metro,2Q2018,Pass,16315,
+620,Porto,Metro,3Q2018,Pass,14511,
+620,Porto,Metro,4Q2018,Pass,16721,
+620,Porto,Metro,1Q2019,Pass,16002,
+620,Porto,Metro,2Q2019,Pass,18022,
+620,Porto,Metro,3Q2019,Pass,17047,
+620,Porto,Metro,4Q2019,Pass,19969,
+620,Porto,Metro,1Q2020,Pass,15329,
+620,Porto,Metro,2Q2020,Pass,3884,
+620,Porto,Metro,3Q2020,Pass,10005,
+620,Porto,Metro,4Q2020,Pass,10165,
+620,Porto,Metro,1Q2021,Pass,6656,
+620,Porto,Metro,2Q2021,Pass,9579,
+620,Porto,Metro,3Q2021,Pass,10238,
+620,Porto,Metro,4Q2021,Pass,14253,
+620,Porto,Metro,1Q2018,PKM,76108,
+620,Porto,Metro,2Q2018,PKM,83467,
+620,Porto,Metro,3Q2018,PKM,75382,
+620,Porto,Metro,4Q2018,PKM,86401,
+620,Porto,Metro,1Q2019,PKM,82009,
+620,Porto,Metro,2Q2019,PKM,95733,
+620,Porto,Metro,3Q2019,PKM,93250,
+620,Porto,Metro,4Q2019,PKM,104795,
+620,Porto,Metro,1Q2020,PKM,79414,
+620,Porto,Metro,2Q2020,PKM,19731,
+620,Porto,Metro,3Q2020,PKM,52829,
+620,Porto,Metro,4Q2020,PKM,51793,
+620,Porto,Metro,1Q2021,PKM,34035,
+620,Porto,Metro,2Q2021,PKM,49314,
+620,Porto,Metro,3Q2021,PKM,54520,
+620,Porto,Metro,4Q2021,PKM,75880,
+620,Sul do Tejo,Metro,1Q2018,Pass,2975,
+620,Sul do Tejo,Metro,2Q2018,Pass,3224,
+620,Sul do Tejo,Metro,3Q2018,Pass,2810,
+620,Sul do Tejo,Metro,4Q2018,Pass,3300,
+620,Sul do Tejo,Metro,1Q2019,Pass,3270,
+620,Sul do Tejo,Metro,2Q2019,Pass,4037,
+620,Sul do Tejo,Metro,3Q2019,Pass,3888,
+620,Sul do Tejo,Metro,4Q2019,Pass,4369,
+620,Sul do Tejo,Metro,1Q2020,Pass,3690,
+620,Sul do Tejo,Metro,2Q2020,Pass,1610,
+620,Sul do Tejo,Metro,3Q2020,Pass,2743,
+620,Sul do Tejo,Metro,4Q2020,Pass,2886,
+620,Sul do Tejo,Metro,1Q2021,Pass,1956,
+620,Sul do Tejo,Metro,2Q2021,Pass,3163,
+620,Sul do Tejo,Metro,3Q2021,Pass,3106,
+620,Sul do Tejo,Metro,4Q2021,Pass,3787,
+620,Sul do Tejo,Metro,1Q2018,PKM,3736.5,
+620,Sul do Tejo,Metro,2Q2018,PKM,4232,
+620,Sul do Tejo,Metro,3Q2018,PKM,3720.5,
+620,Sul do Tejo,Metro,4Q2018,PKM,4266.5,
+620,Sul do Tejo,Metro,1Q2019,PKM,4174.5,
+620,Sul do Tejo,Metro,2Q2019,PKM,5045.5,
+620,Sul do Tejo,Metro,3Q2019,PKM,4765.5,
+620,Sul do Tejo,Metro,4Q2019,PKM,5216.5,
+620,Sul do Tejo,Metro,1Q2020,PKM,4449,
+620,Sul do Tejo,Metro,2Q2020,PKM,2168.5,
+620,Sul do Tejo,Metro,3Q2020,PKM,3706,
+620,Sul do Tejo,Metro,4Q2020,PKM,3869,
+620,Sul do Tejo,Metro,1Q2021,PKM,2663.5,
+620,Sul do Tejo,Metro,2Q2021,PKM,4418,
+620,Sul do Tejo,Metro,3Q2021,PKM,4219.5,
+620,Sul do Tejo,Metro,4Q2021,PKM,4806,
+688,Belgrade,Metro,1Q2019,Pass,2183,
+688,Belgrade,Metro,2Q2019,Pass,2311,
+688,Belgrade,Metro,3Q2019,Pass,2377,
+688,Belgrade,Metro,4Q2019,Pass,2479,
+688,Belgrade,Metro,1Q2020,Pass,1973,
+688,Belgrade,Metro,2Q2020,Pass,1123,
+688,Belgrade,Metro,3Q2020,Pass,1821,
+688,Belgrade,Metro,4Q2020,Pass,2171,
+688,Belgrade,Metro,1Q2021,Pass,2231,
+688,Belgrade,Metro,2Q2021,Pass,2321,
+688,Belgrade,Metro,3Q2021,Pass,2301,
+688,Belgrade,Tram,1Q2019,Pass,21883,
+688,Belgrade,Tram,2Q2019,Pass,22163,
+688,Belgrade,Tram,3Q2019,Pass,20579,
+688,Belgrade,Tram,4Q2019,Pass,23034,
+688,Belgrade,Tram,1Q2020,Pass,20204,
+688,Belgrade,Tram,2Q2020,Pass,9376,
+688,Belgrade,Tram,3Q2020,Pass,20626,
+688,Belgrade,Tram,4Q2020,Pass,23159,
+688,Belgrade,Tram,1Q2021,Pass,22051,
+688,Belgrade,Tram,2Q2021,Pass,22131,
+688,Belgrade,Tram,3Q2021,Pass,20881,
+724,Barcelona,Metro,1Q2019,Pass,106147,
+724,Barcelona,Metro,2Q2019,Pass,105915,
+724,Barcelona,Metro,3Q2019,Pass,89812,
+724,Barcelona,Metro,4Q2019,Pass,110071,
+724,Barcelona,Metro,1Q2020,Pass,87971,
+724,Barcelona,Metro,2Q2020,Pass,23680,
+724,Barcelona,Metro,3Q2020,Pass,48876,
+724,Barcelona,Metro,4Q2020,Pass,57401,
+724,Barcelona,Metro,1Q2021,Pass,57034,
+724,Barcelona,Metro,2Q2021,Pass,67299,
+724,Barcelona,Metro,3Q2021,Pass,67218,
+724,Barcelona,Metro,4Q2021,Pass,86650,
+724,Bilbao,Metro,1Q2019,Pass,23812,
+724,Bilbao,Metro,2Q2019,Pass,22889,
+724,Bilbao,Metro,3Q2019,Pass,20160,
+724,Bilbao,Metro,4Q2019,Pass,24709,
+724,Bilbao,Metro,1Q2020,Pass,19884,
+724,Bilbao,Metro,2Q2020,Pass,7399,
+724,Bilbao,Metro,3Q2020,Pass,13116,
+724,Bilbao,Metro,4Q2020,Pass,15588,
+724,Bilbao,Metro,1Q2021,Pass,15152,
+724,Bilbao,Metro,2Q2021,Pass,16637,
+724,Bilbao,Metro,3Q2021,Pass,15113,
+724,Bilbao,Metro,4Q2021,Pass,19876,
+724,Madrid,Metro,1Q2019,Pass,177422,
+724,Madrid,Metro,2Q2019,Pass,169725,
+724,Madrid,Metro,3Q2019,Pass,143348,
+724,Madrid,Metro,4Q2019,Pass,186981,
+724,Madrid,Metro,1Q2020,Pass,146431,
+724,Madrid,Metro,2Q2020,Pass,36287,
+724,Madrid,Metro,3Q2020,Pass,75634,
+724,Madrid,Metro,4Q2020,Pass,91493,
+724,Madrid,Metro,1Q2021,Pass,94611,
+724,Madrid,Metro,2Q2021,Pass,107618,
+724,Madrid,Metro,3Q2021,Pass,101256,
+724,Madrid,Metro,4Q2021,Pass,138820,
+724,Malaga,Metro,1Q2019,Pass,1693,
+724,Malaga,Metro,2Q2019,Pass,1788,
+724,Malaga,Metro,3Q2019,Pass,1363,
+724,Malaga,Metro,4Q2019,Pass,2035,
+724,Malaga,Metro,1Q2020,Pass,1500,
+724,Malaga,Metro,2Q2020,Pass,339,
+724,Malaga,Metro,3Q2020,Pass,792,
+724,Malaga,Metro,4Q2020,Pass,994,
+724,Malaga,Metro,1Q2021,Pass,808,
+724,Malaga,Metro,2Q2021,Pass,1093,
+724,Malaga,Metro,3Q2021,Pass,1049,
+724,Malaga,Metro,4Q2021,Pass,1675,
+724,Palma de Mallorca,Metro,1Q2019,Pass,290,
+724,Palma de Mallorca,Metro,2Q2019,Pass,293,
+724,Palma de Mallorca,Metro,3Q2019,Pass,217,
+724,Palma de Mallorca,Metro,4Q2019,Pass,373,
+724,Palma de Mallorca,Metro,1Q2020,Pass,257,
+724,Palma de Mallorca,Metro,2Q2020,Pass,36,
+724,Palma de Mallorca,Metro,3Q2020,Pass,87,
+724,Palma de Mallorca,Metro,4Q2020,Pass,195,
+724,Palma de Mallorca,Metro,1Q2021,Pass,166,
+724,Palma de Mallorca,Metro,2Q2021,Pass,204,
+724,Palma de Mallorca,Metro,3Q2021,Pass,145,
+724,Palma de Mallorca,Metro,4Q2021,Pass,323,
+724,Sevilla,Metro,1Q2019,Pass,4327,
+724,Sevilla,Metro,2Q2019,Pass,4815,
+724,Sevilla,Metro,3Q2019,Pass,2950,
+724,Sevilla,Metro,4Q2019,Pass,4907,
+724,Sevilla,Metro,1Q2020,Pass,3556,
+724,Sevilla,Metro,2Q2020,Pass,720,
+724,Sevilla,Metro,3Q2020,Pass,1529,
+724,Sevilla,Metro,4Q2020,Pass,1992,
+724,Sevilla,Metro,1Q2021,Pass,1951,
+724,Sevilla,Metro,2Q2021,Pass,2374,
+724,Sevilla,Metro,3Q2021,Pass,2142,
+724,Sevilla,Metro,4Q2021,Pass,3973,
+724,Valencia,Metro,1Q2019,Pass,18563,
+724,Valencia,Metro,2Q2019,Pass,17252,
+724,Valencia,Metro,3Q2019,Pass,14887,
+724,Valencia,Metro,4Q2019,Pass,18900,
+724,Valencia,Metro,1Q2020,Pass,14744,
+724,Valencia,Metro,2Q2020,Pass,3675,
+724,Valencia,Metro,3Q2020,Pass,8286,
+724,Valencia,Metro,4Q2020,Pass,10279,
+724,Valencia,Metro,1Q2021,Pass,8141,
+724,Valencia,Metro,2Q2021,Pass,10422,
+724,Valencia,Metro,3Q2021,Pass,10459,
+724,Valencia,Metro,4Q2021,Pass,13798,
+804,City Kyiv,Tram,1Q2019,Pass,22634.7,
+804,City Kyiv,Tram,2Q2019,Pass,24616.8,
+804,City Kyiv,Tram,3Q2019,Pass,17776.5,
+804,City Kyiv,Tram,4Q2019,Pass,31503.6,
+804,City Kyiv,Tram,1Q2020,Pass,26169.4,
+804,City Kyiv,Tram,2Q2020,Pass,8808.4,
+804,City Kyiv,Tram,3Q2020,Pass,20483.6,
+804,Dnipro,Metro,1Q2019,Pass,1670.4,
+804,Dnipro,Metro,2Q2019,Pass,1664.9,
+804,Dnipro,Metro,3Q2019,Pass,1897.8,
+804,Dnipro,Metro,4Q2019,Pass,1651.3,
+804,Dnipro,Metro,1Q2020,Pass,1041.7,
+804,Dnipro,Metro,2Q2020,Pass,276.6,
+804,Dnipro,Metro,3Q2020,Pass,1150.6,
+804,Dnipro,Metro,4Q2020,Pass,1086,
+804,Dnipro,Metro,1Q2021,Pass,1051.8,
+804,Dnipro,Metro,2Q2021,Pass,1307.6,
+804,Dnipro,Metro,3Q2021,Pass,1004.6,
+804,Dnipro,Metro,1Q2019,PKM,8017.9,
+804,Dnipro,Metro,1Q2020,PKM,5000.2,
+804,Dnipro,Metro,2Q2020,PKM,1327.7,
+804,Dnipro,Metro,3Q2020,PKM,5522.9,
+804,Dnipro,Metro,4Q2020,PKM,5212.7,
+804,Dnipro,Metro,1Q2021,PKM,5048.7,
+804,Dnipro,Metro,2Q2021,PKM,6276.5,
+804,Dnipro,Metro,3Q2021,PKM,4822.1,
+804,Dnipro region,Tram,1Q2019,Pass,26878.4,
+804,Dnipro region,Tram,2Q2019,Pass,27417.5,
+804,Dnipro region,Tram,3Q2019,Pass,25176.2,
+804,Dnipro region,Tram,4Q2019,Pass,24943.6,
+804,Dnipro region,Tram,1Q2020,Pass,20744.1,
+804,Dnipro region,Tram,2Q2020,Pass,9702,
+804,Dnipro region,Tram,3Q2020,Pass,17595.3,
+804,Dnipro region,Tram,4Q2020,Pass,17110.8,
+804,Dnipro region,Tram,1Q2021,Pass,16653.8,
+804,Dnipro region,Tram,2Q2021,Pass,17930.4,
+804,Dnipro region,Tram,3Q2021,Pass,15828.3,
+804,Dnipro region,Tram,1Q2019,PKM,166671,
+804,Dnipro region,Tram,1Q2020,PKM,128646.7,
+804,Dnipro region,Tram,2Q2020,PKM,60123.8,
+804,Dnipro region,Tram,3Q2020,PKM,109020.1,
+804,Dnipro region,Tram,4Q2020,PKM,106054.9,
+804,Dnipro region,Tram,1Q2021,PKM,103210,
+804,Dnipro region,Tram,2Q2021,PKM,110946,
+804,Dnipro region,Tram,3Q2021,PKM,97875.1,
+804,Donetsk region,Tram,1Q2019,Pass,6405.4,
+804,Donetsk region,Tram,2Q2019,Pass,6317.1,
+804,Donetsk region,Tram,3Q2019,Pass,5558.9,
+804,Donetsk region,Tram,4Q2019,Pass,6346.5,
+804,Donetsk region,Tram,1Q2020,Pass,5937.6,
+804,Donetsk region,Tram,2Q2020,Pass,4023.8,
+804,Donetsk region,Tram,3Q2020,Pass,5844.1,
+804,Donetsk region,Tram,4Q2020,Pass,8131.3,
+804,Donetsk region,Tram,1Q2021,Pass,5588.1,
+804,Donetsk region,Tram,2Q2021,Pass,5029.4,
+804,Donetsk region,Tram,3Q2021,Pass,3195.6,
+804,Donetsk region,Tram,1Q2019,PKM,34519.5,
+804,Donetsk region,Tram,1Q2020,PKM,32443.8,
+804,Donetsk region,Tram,2Q2020,PKM,22626.3,
+804,Donetsk region,Tram,3Q2020,PKM,32530.9,
+804,Donetsk region,Tram,4Q2020,PKM,45545.3,
+804,Donetsk region,Tram,1Q2021,PKM,31288.5,
+804,Donetsk region,Tram,2Q2021,PKM,27883.3,
+804,Donetsk region,Tram,3Q2021,PKM,17372.5,
+804,Kharkiv,Metro,1Q2019,Pass,54212.7,
+804,Kharkiv,Metro,2Q2019,Pass,52964,
+804,Kharkiv,Metro,3Q2019,Pass,49649.5,
+804,Kharkiv,Metro,4Q2019,Pass,55931.9,
+804,Kharkiv,Metro,1Q2020,Pass,41830.5,
+804,Kharkiv,Metro,2Q2020,Pass,12367.6,
+804,Kharkiv,Metro,3Q2020,Pass,36869.2,
+804,Kharkiv,Metro,4Q2020,Pass,37043.4,
+804,Kharkiv,Metro,1Q2021,Pass,36449.2,
+804,Kharkiv,Metro,2Q2021,Pass,38381.7,
+804,Kharkiv,Metro,3Q2021,Pass,41645.7,
+804,Kharkiv,Metro,1Q2019,PKM,352382.6,
+804,Kharkiv,Metro,1Q2020,PKM,271898.3,
+804,Kharkiv,Metro,2Q2020,PKM,80389.5,
+804,Kharkiv,Metro,3Q2020,PKM,239649.9,
+804,Kharkiv,Metro,4Q2020,PKM,240782.1,
+804,Kharkiv,Metro,1Q2021,PKM,236919.8,
+804,Kharkiv,Metro,2Q2021,PKM,249481.1,
+804,Kharkiv,Metro,3Q2021,PKM,270697.1,
+804,Kharkiv region,Tram,1Q2019,Pass,23759.6,
+804,Kharkiv region,Tram,2Q2019,Pass,22173.2,
+804,Kharkiv region,Tram,3Q2019,Pass,19258.3,
+804,Kharkiv region,Tram,4Q2019,Pass,23391.7,
+804,Kharkiv region,Tram,1Q2020,Pass,22219.3,
+804,Kharkiv region,Tram,2Q2020,Pass,14826.5,
+804,Kharkiv region,Tram,3Q2020,Pass,18390.1,
+804,Kharkiv region,Tram,4Q2020,Pass,20570.5,
+804,Kharkiv region,Tram,1Q2021,Pass,9554,
+804,Kharkiv region,Tram,2Q2021,Pass,10007.8,
+804,Kharkiv region,Tram,3Q2021,Pass,9898.4,
+804,Kharkiv region,Tram,1Q2019,PKM,163941.2,
+804,Kharkiv region,Tram,1Q2020,PKM,153313.3,
+804,Kharkiv region,Tram,2Q2020,PKM,102302.9,
+804,Kharkiv region,Tram,3Q2020,PKM,126889.7,
+804,Kharkiv region,Tram,4Q2020,PKM,141936.4,
+804,Kharkiv region,Tram,1Q2021,PKM,65922.7,
+804,Kharkiv region,Tram,2Q2021,PKM,69053.9,
+804,Kharkiv region,Tram,3Q2021,PKM,68299.1,
+804,Kyiv,Metro,1Q2019,Pass,119729.8,
+804,Kyiv,Metro,2Q2019,Pass,124776,
+804,Kyiv,Metro,3Q2019,Pass,119606.4,
+804,Kyiv,Metro,4Q2019,Pass,131227.4,
+804,Kyiv,Metro,1Q2020,Pass,96375.4,
+804,Kyiv,Metro,2Q2020,Pass,24698.3,
+804,Kyiv,Metro,3Q2020,Pass,80585.3,
+804,Kyiv,Metro,4Q2020,Pass,77825.1,
+804,Kyiv,Metro,1Q2021,Pass,75266,
+804,Kyiv,Metro,2Q2021,Pass,65025.3,
+804,Kyiv,Metro,3Q2021,Pass,93501.5,
+804,Kyiv,Metro,1Q2019,PKM,981784.3,
+804,Kyiv,Metro,1Q2020,PKM,790278.3,
+804,Kyiv,Metro,2Q2020,PKM,202526,
+804,Kyiv,Metro,3Q2020,PKM,660799.5,
+804,Kyiv,Metro,4Q2020,PKM,638165.9,
+804,Kyiv,Metro,1Q2021,PKM,617181.2,
+804,Kyiv,Metro,2Q2021,PKM,533207.5,
+804,Kyiv,Metro,3Q2021,PKM,766712.4,
+804,Kyiv,Tram,1Q2019,Pass,22634.7,
+804,Kyiv,Tram,1Q2020,Pass,26169.4,
+804,Kyiv,Tram,2Q2020,Pass,8808.4,
+804,Kyiv,Tram,3Q2020,Pass,20483.6,
+804,Kyiv,Tram,4Q2020,Pass,20145.8,
+804,Kyiv,Tram,1Q2021,Pass,19708,
+804,Kyiv,Tram,2Q2021,Pass,16033.6,
+804,Kyiv,Tram,3Q2021,Pass,18555.9,
+804,Kyiv,Tram,1Q2019,PKM,101856.2,
+804,Kyiv,Tram,1Q2020,PKM,117762.4,
+804,Kyiv,Tram,2Q2020,PKM,39637.9,
+804,Kyiv,Tram,3Q2020,PKM,92176.3,
+804,Kyiv,Tram,4Q2020,PKM,90656.2,
+804,Kyiv,Tram,1Q2021,PKM,88686.1,
+804,Kyiv,Tram,2Q2021,PKM,72151.3,
+804,Kyiv,Tram,3Q2021,PKM,83501.6,
+804,Lviv region,Tram,1Q2019,Pass,15015.7,
+804,Lviv region,Tram,2Q2019,Pass,15837.5,
+804,Lviv region,Tram,3Q2019,Pass,15467.9,
+804,Lviv region,Tram,4Q2019,Pass,16801.4,
+804,Lviv region,Tram,1Q2020,Pass,13215.3,
+804,Lviv region,Tram,2Q2020,Pass,2194.2,
+804,Lviv region,Tram,3Q2020,Pass,10069,
+804,Lviv region,Tram,4Q2020,Pass,9232.7,
+804,Lviv region,Tram,1Q2021,Pass,8327.6,
+804,Lviv region,Tram,2Q2021,Pass,8558.3,
+804,Lviv region,Tram,3Q2021,Pass,9230.8,
+804,Lviv region,Tram,1Q2019,PKM,109614.7,
+804,Lviv region,Tram,1Q2020,PKM,96471.8,
+804,Lviv region,Tram,2Q2020,PKM,16017.7,
+804,Lviv region,Tram,3Q2020,PKM,73503.7,
+804,Lviv region,Tram,4Q2020,PKM,67398.7,
+804,Lviv region,Tram,1Q2021,PKM,60791.4,
+804,Lviv region,Tram,2Q2021,PKM,62475.5,
+804,Lviv region,Tram,3Q2021,PKM,67384.9,
+804,Mykolayiv region,Tram,1Q2019,Pass,5479.8,
+804,Mykolayiv region,Tram,2Q2019,Pass,5820.5,
+804,Mykolayiv region,Tram,3Q2019,Pass,5913.4,
+804,Mykolayiv region,Tram,4Q2019,Pass,4950.2,
+804,Mykolayiv region,Tram,1Q2020,Pass,3740.9,
+804,Mykolayiv region,Tram,2Q2020,Pass,2155.4,
+804,Mykolayiv region,Tram,3Q2020,Pass,3129.1,
+804,Mykolayiv region,Tram,4Q2020,Pass,3318.1,
+804,Mykolayiv region,Tram,1Q2021,Pass,3048.8,
+804,Mykolayiv region,Tram,2Q2021,Pass,2872.8,
+804,Mykolayiv region,Tram,3Q2021,Pass,3670.8,
+804,Mykolayiv region,Tram,1Q2019,PKM,36166.6,
+804,Mykolayiv region,Tram,1Q2020,PKM,24690,
+804,Mykolayiv region,Tram,2Q2020,PKM,14225.7,
+804,Mykolayiv region,Tram,3Q2020,PKM,20652,
+804,Mykolayiv region,Tram,4Q2020,PKM,21899.5,
+804,Mykolayiv region,Tram,1Q2021,PKM,20121.1,
+804,Mykolayiv region,Tram,2Q2021,PKM,18960.5,
+804,Mykolayiv region,Tram,3Q2021,PKM,24227.3,
+804,Odesa region,Tram,1Q2019,Pass,28108.8,
+804,Odesa region,Tram,2Q2019,Pass,33974.4,
+804,Odesa region,Tram,3Q2019,Pass,36549.3,
+804,Odesa region,Tram,4Q2019,Pass,35016.2,
+804,Odesa region,Tram,1Q2020,Pass,24922.4,
+804,Odesa region,Tram,2Q2020,Pass,16535.7,
+804,Odesa region,Tram,3Q2020,Pass,27967.5,
+804,Odesa region,Tram,4Q2020,Pass,19770.4,
+804,Odesa region,Tram,1Q2021,Pass,19843,
+804,Odesa region,Tram,2Q2021,Pass,25414.8,
+804,Odesa region,Tram,3Q2021,Pass,34037.3,
+804,Odesa region,Tram,1Q2019,PKM,202383.4,
+804,Odesa region,Tram,1Q2020,PKM,179441.3,
+804,Odesa region,Tram,2Q2020,PKM,119057.1,
+804,Odesa region,Tram,3Q2020,PKM,201366,
+804,Odesa region,Tram,4Q2020,PKM,142346.9,
+804,Odesa region,Tram,1Q2021,PKM,142869.6,
+804,Odesa region,Tram,2Q2021,PKM,182986.6,
+804,Odesa region,Tram,3Q2021,PKM,245068.6,
+804,Sumy region,Tram,1Q2019,Pass,1157,
+804,Sumy region,Tram,2Q2019,Pass,1163.2,
+804,Sumy region,Tram,3Q2019,Pass,1160.3,
+804,Sumy region,Tram,4Q2019,Pass,1377.5,
+804,Sumy region,Tram,1Q2020,Pass,1372.8,
+804,Sumy region,Tram,2Q2020,Pass,1193.7,
+804,Sumy region,Tram,3Q2020,Pass,1170.5,
+804,Sumy region,Tram,4Q2020,Pass,1287.2,
+804,Sumy region,Tram,1Q2021,Pass,1338.7,
+804,Sumy region,Tram,2Q2021,Pass,1694,
+804,Sumy region,Tram,3Q2021,Pass,1323.7,
+804,Sumy region,Tram,1Q2019,PKM,5206.5,
+804,Sumy region,Tram,1Q2020,PKM,6177.7,
+804,Sumy region,Tram,2Q2020,PKM,5371.7,
+804,Sumy region,Tram,3Q2020,PKM,5267.4,
+804,Sumy region,Tram,4Q2020,PKM,5792.4,
+804,Sumy region,Tram,1Q2021,PKM,6024.1,
+804,Sumy region,Tram,2Q2021,PKM,7623.1,
+804,Sumy region,Tram,3Q2021,PKM,5956.7,
+804,Vinnytsya region,Tram,1Q2019,Pass,14799.7,
+804,Vinnytsya region,Tram,2Q2019,Pass,14408.5,
+804,Vinnytsya region,Tram,3Q2019,Pass,11317,
+804,Vinnytsya region,Tram,4Q2019,Pass,15256.8,
+804,Vinnytsya region,Tram,1Q2020,Pass,12258.4,
+804,Vinnytsya region,Tram,2Q2020,Pass,2244.5,
+804,Vinnytsya region,Tram,3Q2020,Pass,4530.2,
+804,Vinnytsya region,Tram,4Q2020,Pass,4469.9,
+804,Vinnytsya region,Tram,1Q2021,Pass,4300,
+804,Vinnytsya region,Tram,2Q2021,Pass,4829.8,
+804,Vinnytsya region,Tram,3Q2021,Pass,4973.1,
+804,Vinnytsya region,Tram,1Q2019,PKM,60678.8,
+804,Vinnytsya region,Tram,1Q2020,PKM,50259.4,
+804,Vinnytsya region,Tram,2Q2020,PKM,9202.5,
+804,Vinnytsya region,Tram,3Q2020,PKM,18573.9,
+804,Vinnytsya region,Tram,4Q2020,PKM,18326.7,
+804,Vinnytsya region,Tram,1Q2021,PKM,17630,
+804,Vinnytsya region,Tram,2Q2021,PKM,19802.2,
+804,Vinnytsya region,Tram,3Q2021,PKM,20389.7,
+804,Zaporizhya region,Tram,1Q2019,Pass,6070.6,
+804,Zaporizhya region,Tram,2Q2019,Pass,7109.5,
+804,Zaporizhya region,Tram,3Q2019,Pass,6985.1,
+804,Zaporizhya region,Tram,4Q2019,Pass,6335,
+804,Zaporizhya region,Tram,1Q2020,Pass,5143.2,
+804,Zaporizhya region,Tram,2Q2020,Pass,1408.7,
+804,Zaporizhya region,Tram,3Q2020,Pass,3507.3,
+804,Zaporizhya region,Tram,4Q2020,Pass,2667.8,
+804,Zaporizhya region,Tram,1Q2021,Pass,2840.8,
+804,Zaporizhya region,Tram,2Q2021,Pass,3051.2,
+804,Zaporizhya region,Tram,3Q2021,Pass,4818.1,
+804,Zaporizhya region,Tram,1Q2019,PKM,14569.4,
+804,Zaporizhya region,Tram,1Q2020,PKM,12343.7,
+804,Zaporizhya region,Tram,2Q2020,PKM,3380.9,
+804,Zaporizhya region,Tram,3Q2020,PKM,8417.5,
+804,Zaporizhya region,Tram,4Q2020,PKM,6402.8,
+804,Zaporizhya region,Tram,1Q2021,PKM,6818,
+804,Zaporizhya region,Tram,2Q2021,PKM,7322.9,
+804,Zaporizhya region,Tram,3Q2021,PKM,11563.4,
+804,Zhytomyr region,Tram,1Q2019,Pass,1806.4,
+804,Zhytomyr region,Tram,2Q2019,Pass,1986.8,
+804,Zhytomyr region,Tram,3Q2019,Pass,1705.9,
+804,Zhytomyr region,Tram,4Q2019,Pass,1782.7,
+804,Zhytomyr region,Tram,1Q2020,Pass,1420.1,
+804,Zhytomyr region,Tram,2Q2020,Pass,702.7,
+804,Zhytomyr region,Tram,3Q2020,Pass,1078.5,
+804,Zhytomyr region,Tram,4Q2020,Pass,1344.7,
+804,Zhytomyr region,Tram,1Q2021,Pass,1235.1,
+804,Zhytomyr region,Tram,2Q2021,Pass,1295.4,
+804,Zhytomyr region,Tram,3Q2021,Pass,1225.1,
+804,Zhytomyr region,Tram,1Q2019,PKM,5058,
+804,Zhytomyr region,Tram,1Q2020,PKM,3976.3,
+804,Zhytomyr region,Tram,2Q2020,PKM,1967.5,
+804,Zhytomyr region,Tram,3Q2020,PKM,3019.8,
+804,Zhytomyr region,Tram,4Q2020,PKM,3765.1,
+804,Zhytomyr region,Tram,1Q2021,PKM,3458.3,
+804,Zhytomyr region,Tram,2Q2021,PKM,3627.1,
+804,Zhytomyr region,Tram,3Q2021,PKM,3430.3,
+840,Antioch (California),Light rail,1Q2019,Pass,539.092,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2019,Pass,577.41,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2019,Pass,595.925,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,4Q2019,Pass,579.688,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,1Q2020,Pass,462.987,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2020,Pass,96.37,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2020,Pass,135.42,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,4Q2020,Pass,143.649,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,1Q2021,Pass,136.599,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2021,Pass,185.756,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2021,Pass,239.49,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,1Q2019,PKM,5959.162676,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2019,PKM,6382.732671,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2019,PKM,6587.398845,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,4Q2019,PKM,6407.913851,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,1Q2020,PKM,5005.754324,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2020,PKM,1041.939718,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2020,PKM,1464.143163,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,4Q2020,PKM,1553.114025,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,1Q2021,PKM,1476.890355,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,2Q2021,PKM,2008.36935,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Antioch (California),Light rail,3Q2021,PKM,2589.334264,San Francisco Bay Area Rapid Transit District (BART) - eBART
+840,Atlanta,Metro,1Q2019,Pass,15832.246,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2019,Pass,16048.003,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2019,Pass,16585.014,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,4Q2019,Pass,15533.031,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,1Q2020,Pass,12068.694,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2020,Pass,3336.127,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2020,Pass,4055.208,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,4Q2020,Pass,4596.236,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,1Q2021,Pass,4440.98,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2021,Pass,5441.197,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2021,Pass,6480.94,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,1Q2019,PKM,175818.5126,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2019,PKM,178214.5134,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2019,PKM,184178.0687,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,4Q2019,PKM,172495.7031,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,1Q2020,PKM,141322.955,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2020,PKM,39065.64586,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2020,PKM,47485.99787,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,4Q2020,PKM,53821.37067,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,1Q2021,PKM,52003.34159,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,2Q2021,PKM,63715.76234,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Metro,3Q2021,PKM,75891.02779,Metropolitan Atlanta Rapid Transit Authority (MARTA)
+840,Atlanta,Tram,1Q2019,Pass,80.414,City of Atlanta Streetcar
+840,Atlanta,Tram,2Q2019,Pass,70.265,City of Atlanta Streetcar
+840,Atlanta,Tram,3Q2019,Pass,93.537,City of Atlanta Streetcar
+840,Atlanta,Tram,4Q2019,Pass,54.158,City of Atlanta Streetcar
+840,Atlanta,Tram,1Q2020,Pass,56.718,City of Atlanta Streetcar
+840,Atlanta,Tram,2Q2020,Pass,12.24,City of Atlanta Streetcar
+840,Atlanta,Tram,3Q2020,Pass,18.255,City of Atlanta Streetcar
+840,Atlanta,Tram,1Q2019,PKM,97.18951354,City of Atlanta Streetcar
+840,Atlanta,Tram,2Q2019,PKM,84.9232866,City of Atlanta Streetcar
+840,Atlanta,Tram,3Q2019,PKM,113.0501595,City of Atlanta Streetcar
+840,Atlanta,Tram,4Q2019,PKM,65.45613543,City of Atlanta Streetcar
+840,Atlanta,Tram,1Q2020,PKM,68.55018814,City of Atlanta Streetcar
+840,Atlanta,Tram,2Q2020,PKM,14.79343952,City of Atlanta Streetcar
+840,Atlanta,Tram,3Q2020,PKM,22.06325478,City of Atlanta Streetcar
+840,Baltimore,Light rail,1Q2019,Pass,1718.598,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,2Q2019,Pass,1724.077,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,3Q2019,Pass,1338.416,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,4Q2019,Pass,1728.084,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,1Q2020,Pass,1404.656,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,2Q2020,Pass,181.562,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,3Q2020,Pass,615.634,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,4Q2020,Pass,606.48,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,1Q2021,Pass,553.637,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,2Q2021,Pass,677.746,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,3Q2021,Pass,692.896,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,1Q2019,PKM,15808.80825,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,2Q2019,PKM,15859.20774,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,3Q2019,PKM,12311.64118,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,4Q2019,PKM,15896.0668,Maryland Transit Administration (MTA) - Baltimore Light railLink
+840,Baltimore,Light rail,1Q2020,PKM,12914.17908,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,2Q2020,PKM,1669.251534,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,3Q2020,PKM,5660.038987,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,4Q2020,PKM,5575.878599,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,1Q2021,PKM,5090.048641,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,2Q2021,PKM,6231.086626,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Light rail,3Q2021,PKM,6370.373264,Maryland Transit Administration (MTA) - Baltimore Light RailLink
+840,Baltimore,Metro,1Q2019,Pass,1589.044,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2019,Pass,1825.884,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2019,Pass,2012.132,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,4Q2019,Pass,1915.125,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,1Q2020,Pass,1622.552,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2020,Pass,339.503,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2020,Pass,490.639,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,4Q2020,Pass,387.014,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,1Q2021,Pass,311.026,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2021,Pass,426.881,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2021,Pass,412.191,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,1Q2019,PKM,11413.5395,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2019,PKM,13114.67723,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2019,PKM,14452.43056,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,4Q2019,PKM,13755.66368,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,1Q2020,PKM,12448.81526,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2020,PKM,2604.791789,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2020,PKM,3764.362726,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,4Q2020,PKM,2969.313642,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,1Q2021,PKM,2386.305779,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,2Q2021,PKM,3275.187918,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Baltimore,Metro,3Q2021,PKM,3162.480839,Maryland Transit Administration (MTA) - Baltimore SubwayLink
+840,Boston,Light rail,1Q2019,Pass,13204.135,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2019,Pass,13571.787,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2019,Pass,13321.843,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,4Q2019,Pass,11528.988,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,1Q2020,Pass,10773.138, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2020,Pass,1084.119, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2020,Pass,2990.642, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,4Q2020,Pass,3491.886, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,1Q2021,Pass,3578.126, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2021,Pass,4713.366, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2021,Pass,6044.475, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,1Q2019,PKM,51365.3613,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2019,PKM,52795.56312,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2019,PKM,51823.2568,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,4Q2019,PKM,44848.87757,MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,1Q2020,PKM,40809.34153, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2020,PKM,4106.712689, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2020,PKM,11328.74477, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,4Q2020,PKM,13227.48937, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,1Q2021,PKM,13554.17205, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,2Q2021,PKM,17854.53438, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Light rail,3Q2021,PKM,22896.86112, MBTA - Boston Green Line and Ashmont-Mattapan Line
+840,Boston,Metro,1Q2019,Pass,38114.72,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,2Q2019,Pass,41630.776,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,3Q2019,Pass,38400.325,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,4Q2019,Pass,35356.033,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,1Q2020,Pass,31592.991,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,2Q2020,Pass,4733.789,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,3Q2020,Pass,10160.369,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,4Q2020,Pass,10529.619,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,1Q2021,Pass,10185.633,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,2Q2021,Pass,13947.616,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,3Q2021,Pass,18238.113,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,1Q2019,PKM,218822.6874,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,2Q2019,PKM,239008.9258,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,3Q2019,PKM,220462.3913,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,4Q2019,PKM,202984.6253,"Massachusetts Bay Transportation Authority (MBTA) - Boston ""T"""
+840,Boston,Metro,1Q2020,PKM,178960.233,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,2Q2020,PKM,26814.80783,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,3Q2020,PKM,57553.96833,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,4Q2020,PKM,59645.60524,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,1Q2021,PKM,57697.07765,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,2Q2021,PKM,79007.037,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Boston,Metro,3Q2021,PKM,103310.7929,Massachusetts Bay Transportation Authority (MBTA) - Boston T
+840,Buffalo,Light rail,1Q2019,Pass,1009.799,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2019,Pass,1128.924,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2019,Pass,1149.351,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,4Q2019,Pass,1116.209,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,1Q2020,Pass,829.197,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2020,Pass,353.636,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2020,Pass,439.532,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,4Q2020,Pass,377.635,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,1Q2021,Pass,345.205,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2021,Pass,421.037,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2021,Pass,565.768,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,1Q2019,PKM,4337.743406,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2019,PKM,4849.462751,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2019,PKM,4937.21,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,4Q2019,PKM,4794.843557,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,1Q2020,PKM,3558.337323,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2020,PKM,1517.559974,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2020,PKM,1886.165918,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,4Q2020,PKM,1620.547005,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,1Q2021,PKM,1481.37998,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,2Q2021,PKM,1806.79823,Niagara Frontier Transportation Authority (NFT Metro)
+840,Buffalo,Light rail,3Q2021,PKM,2427.883109,Niagara Frontier Transportation Authority (NFT Metro)
+840,Charlotte,Light rail,1Q2019,Pass,2090.41,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2019,Pass,2108.594,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2019,Pass,2396.557,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,4Q2019,Pass,2280.02,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,1Q2020,Pass,1980.005,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2020,Pass,605.362,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2020,Pass,639.924,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,4Q2020,Pass,696.602,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,1Q2021,Pass,563.949,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2021,Pass,699.156,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2021,Pass,858.915,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,1Q2019,PKM,18917.79581,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2019,PKM,19082.3574,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2019,PKM,21688.36543,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,4Q2019,PKM,20633.72869,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,1Q2020,PKM,16515.63596,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2020,PKM,5049.451096,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2020,PKM,5337.739969,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,4Q2020,PKM,5810.503025,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,1Q2021,PKM,4704.016598,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,2Q2021,PKM,5831.806473,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Light rail,3Q2021,PKM,7164.389717,City of Charlotte North Carolina (CATS) - Charlotte Lynx
+840,Charlotte,Tram,1Q2019,Pass,68.222,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,2Q2019,Pass,43.381,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,1Q2020,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,2Q2020,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,3Q2020,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,4Q2020,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,1Q2021,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,2Q2021,Pass,0,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,3Q2021,Pass,39.13,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,1Q2019,PKM,100.7125625,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Charlotte,Tram,2Q2019,PKM,64.04109635,City of Charlotte North Carolina (CATS) - Charlotte Streetcar
+840,Chicago,Metro,1Q2019,Pass,50444.955,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,2Q2019,Pass,56376.362,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,3Q2019,Pass,57691.074,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,4Q2019,Pass,53954.75,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,1Q2020,Pass,43274.386,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,2Q2020,Pass,7456.823,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,3Q2020,Pass,13072.338,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,4Q2020,Pass,12246.324,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,1Q2021,Pass,12008.588,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,2Q2021,Pass,17487.391,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,3Q2021,Pass,25036.912,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,1Q2019,PKM,512119.1297,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,2Q2019,PKM,572335.0025,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,3Q2019,PKM,585682.0094,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,4Q2019,PKM,547750.704,"Chicago Transit Authority (CTA) - Chicago ""L"""
+840,Chicago,Metro,1Q2020,PKM,439755.0244,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,2Q2020,PKM,75776.35833,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,3Q2020,PKM,132841.3144,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,4Q2020,PKM,124447.3465,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,1Q2021,PKM,122031.4693,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,2Q2021,PKM,177707.1558,Chicago Transit Authority (CTA) - Chicago L
+840,Chicago,Metro,3Q2021,PKM,254425.5128,Chicago Transit Authority (CTA) - Chicago L
+840,Cincinnati,Tram,1Q2019,Pass,81.962,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,2Q2019,Pass,133.722,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,3Q2019,Pass,166.886,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,4Q2019,Pass,149.022,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,1Q2019,PKM,209.4647034,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,2Q2019,PKM,341.7442116,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,3Q2019,PKM,426.4991886,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati,Tram,4Q2019,PKM,380.84538,Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,1Q2020,Pass,74.094,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,2Q2020,Pass,0,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,3Q2020,Pass,21.253,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,4Q2020,Pass,73.045,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,1Q2021,Pass,77.289,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,2Q2021,Pass,136.966,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,3Q2021,Pass,176.205,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,1Q2020,PKM,189.5954764,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,2Q2020,PKM,0,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,3Q2020,PKM,54.3832518,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,4Q2020,PKM,186.9112421,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,1Q2021,PKM,197.771004,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,2Q2021,PKM,350.4755313,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cincinnati�,Tram,3Q2021,PKM,450.88227,City of Cincinnati / Southwest Ohio Regional Transit Authority (SORTA / Metro / Access) - Cincinnati Bell Connector
+840,Cleveland,Light rail,1Q2019,Pass,354.598,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,2Q2019,Pass,378.26,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,3Q2019,Pass,387.741,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,4Q2019,Pass,364.264,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,1Q2020,Pass,281.295,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,2Q2020,Pass,109.198,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,3Q2020,Pass,76.211,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,4Q2020,Pass,122.541,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,1Q2021,Pass,118.879,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,2Q2021,Pass,147.374,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,3Q2021,Pass,184.142,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,1Q2019,PKM,3449.121897,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,2Q2019,PKM,3679.278644,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,3Q2019,PKM,3771.498918,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,4Q2019,PKM,3543.141638,"GCRTA - ""The Rapid"" Green Line"
+840,Cleveland,Light rail,1Q2020,PKM,1587.02792,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,2Q2020,PKM,616.0801819,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,3Q2020,PKM,429.9720392,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,4Q2020,PKM,691.359563,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,1Q2021,PKM,670.6990599,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,2Q2021,PKM,831.4639528,GCRTA - The Rapid Green Line
+840,Cleveland,Light rail,3Q2021,PKM,1038.90398,GCRTA - The Rapid Green Line
+840,Cleveland,Metro,1Q2019,Pass,1442.11,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,2Q2019,Pass,1421.771,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,3Q2019,Pass,1341.918,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,4Q2019,Pass,1460.907,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,1Q2020,Pass,1022.166,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,2Q2020,Pass,516.792,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,3Q2020,Pass,543.619,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,4Q2020,Pass,555.624,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,1Q2021,Pass,546.183,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,2Q2021,Pass,653.107,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,3Q2021,Pass,768.918,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,1Q2019,PKM,14961.09719,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,2Q2019,PKM,14750.09126,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,3Q2019,PKM,13921.66036,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,4Q2019,PKM,15156.10571,"The Greater Cleveland Regional Transit Authority (GCRTA) - ""The Rapid"""
+840,Cleveland,Metro,1Q2020,PKM,11449.12341,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,2Q2020,PKM,5788.50733,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,3Q2020,PKM,6088.992411,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,4Q2020,PKM,6223.458561,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,1Q2021,PKM,6117.711379,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,2Q2021,PKM,7315.35058,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Cleveland,Metro,3Q2021,PKM,8612.531694,The Greater Cleveland Regional Transit Authority (GCRTA) - The Rapid
+840,Dallas,Light rail,1Q2019,Pass,6723.967,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2019,Pass,6909.588,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2019,Pass,7048.927,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,4Q2019,Pass,7386.817,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,1Q2020,Pass,6109.104,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2020,Pass,3098.86,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2020,Pass,3486.255,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,4Q2020,Pass,3567.974,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,1Q2021,Pass,3211.889,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2021,Pass,3601.134,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2021,Pass,4106.231,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,1Q2019,PKM,86723.93485,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2019,PKM,89118.02505,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2019,PKM,90915.18234,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,4Q2019,PKM,95273.19754,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,1Q2020,PKM,80444.3256,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2020,PKM,40805.60797,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2020,PKM,45906.80276,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,4Q2020,PKM,46982.87379,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,1Q2021,PKM,42293.96725,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,2Q2021,PKM,47419.52274,Dallas Area Rapid Transit (DART)
+840,Dallas,Light rail,3Q2021,PKM,54070.61061,Dallas Area Rapid Transit (DART)
+840,Dallas,Other,1Q2019,Pass,112.572,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2019,Pass,148.464,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2019,Pass,137.504,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,4Q2019,Pass,173.261,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,1Q2020,Pass,157.476,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2020,Pass,98.3,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2020,Pass,151.598,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,4Q2020,Pass,178.465,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,1Q2021,Pass,144.744,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2021,Pass,180.254,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2021,Pass,154.795,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,1Q2019,PKM,228.7590942,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2019,PKM,301.6957162,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2019,PKM,279.4237509,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,4Q2019,PKM,352.0860376,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,1Q2020,PKM,317.3987701,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2020,PKM,198.127328,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2020,PKM,305.5514412,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,4Q2020,PKM,359.7028849,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,1Q2021,PKM,291.7369477,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,2Q2021,PKM,363.3086814,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Other,3Q2021,PKM,311.9951143,McKinney Avenue Transit Authority (MATA)
+840,Dallas,Tram,1Q2019,Pass,53.115,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2019,Pass,61.956,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2019,Pass,61.532,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,4Q2019,Pass,61.077,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,1Q2020,Pass,55.468,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2020,Pass,35.441,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2020,Pass,37.434,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,4Q2020,Pass,34.946,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,1Q2021,Pass,31.907,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2021,Pass,37.577,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2021,Pass,40.66,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,1Q2019,PKM,134.2464878,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2019,PKM,156.5918365,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2019,PKM,155.5201899,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,4Q2019,PKM,154.3701917,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,1Q2020,PKM,138.7474978,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2020,PKM,88.65201682,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2020,PKM,93.63730136,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,4Q2020,PKM,87.41382522,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,1Q2021,PKM,79.81207925,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,2Q2021,PKM,93.99500116,Dallas Area Rapid Transit (DART)
+840,Dallas,Tram,3Q2021,PKM,101.7068086,Dallas Area Rapid Transit (DART)
+840,Denver,Light rail,1Q2019,Pass,5485.849,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2019,Pass,6269.743,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2019,Pass,6527.799,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,4Q2019,Pass,6301.909,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,1Q2020,Pass,5124.236,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2020,Pass,1736.402,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2020,Pass,1896.65,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,4Q2020,Pass,1707.39,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,1Q2021,Pass,1676.583,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2021,Pass,2199.195,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2021,Pass,3092.84,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,1Q2019,PKM,64016.15126,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2019,PKM,73163.6646,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2019,PKM,76175.00376,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,4Q2019,PKM,73539.02008,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,1Q2020,PKM,57456.80069,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2020,PKM,19469.84948,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2020,PKM,21266.67098,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,4Q2020,PKM,19144.54505,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,1Q2021,PKM,18799.11372,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,2Q2021,PKM,24659.03381,Denver Regional Transportation District (RTD)
+840,Denver,Light rail,3Q2021,PKM,34679.25588,Denver Regional Transportation District (RTD)
+840,Detroit,Other,1Q2019,Pass,477.868,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2019,Pass,397.95,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2019,Pass,347.541,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,1Q2020,Pass,269.058,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2020,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2020,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,4Q2020,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,1Q2021,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2021,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2021,Pass,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,1Q2019,PKM,1061.29188,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2019,PKM,883.8028571,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2019,PKM,771.8500535,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,1Q2020,PKM,597.5480064,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2020,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2020,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,4Q2020,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,1Q2021,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,2Q2021,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Other,3Q2021,PKM,0,Detroit Transportation Corporation (Detroit People Mover)
+840,Detroit,Tram,1Q2019,Pass,234.218,M-1 Rail - Qline
+840,Detroit,Tram,2Q2019,Pass,287.818,M-1 Rail - Qline
+840,Detroit,Tram,3Q2019,Pass,315.341,M-1 Rail - Qline
+840,Detroit,Tram,4Q2019,Pass,255.639,M-1 Rail - Qline
+840,Detroit,Tram,1Q2020,Pass,190.479,M-1 Rail - Qline
+840,Detroit,Tram,2Q2020,Pass,0,M-1 Rail - Qline
+840,Detroit,Tram,3Q2020,Pass,0,M-1 Rail - Qline
+840,Detroit,Tram,4Q2020,Pass,0,M-1 Rail - Qline
+840,Detroit,Tram,1Q2021,Pass,0,M-1 Rail - Qline
+840,Detroit,Tram,2Q2021,Pass,0,M-1 Rail - Qline
+840,Detroit,Tram,3Q2021,Pass,3.213,M-1 Rail - Qline
+840,Detroit,Tram,1Q2019,PKM,579.0119981,M-1 Rail - Qline
+840,Detroit,Tram,2Q2019,PKM,711.5169426,M-1 Rail - Qline
+840,Detroit,Tram,3Q2019,PKM,779.5567484,M-1 Rail - Qline
+840,Detroit,Tram,4Q2019,PKM,631.9670059,M-1 Rail - Qline
+840,Detroit,Tram,1Q2020,PKM,459.8182108,M-1 Rail - Qline
+840,Detroit,Tram,2Q2020,PKM,0,M-1 Rail - Qline
+840,Detroit,Tram,3Q2020,PKM,0,M-1 Rail - Qline
+840,Detroit,Tram,4Q2020,PKM,0,M-1 Rail - Qline
+840,Detroit,Tram,1Q2021,PKM,0,M-1 Rail - Qline
+840,Detroit,Tram,2Q2021,PKM,0,M-1 Rail - Qline
+840,Detroit,Tram,3Q2021,PKM,7.75621413,M-1 Rail - Qline
+840,Houston,Light rail,1Q2019,Pass,4846.963,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2019,Pass,4422.151,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2019,Pass,4738.536,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,4Q2019,Pass,4401.399,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,1Q2020,Pass,4300.159,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2020,Pass,1993.14,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2020,Pass,2193.407,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,4Q2020,Pass,2146.175,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,1Q2021,Pass,1721.054,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2021,Pass,2054.02,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2021,Pass,2554.975,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,1Q2019,PKM,21960.49831,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2019,PKM,20035.77076,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2019,PKM,21469.23998,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,4Q2019,PKM,19941.74812,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,1Q2020,PKM,20134.95584,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2020,PKM,9332.628369,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2020,PKM,10270.35351,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,4Q2020,PKM,10049.19559,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,1Q2021,PKM,8058.619759,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,2Q2021,PKM,9617.691343,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Houston,Light rail,3Q2021,PKM,11963.35038,"Metropolitan Transit Authority of Harris County, Texas (Metro) - Houston METRORail"
+840,Jacksonville,Other,1Q2019,Pass,194.784,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2019,Pass,203.807,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2019,Pass,190.046,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,4Q2019,Pass,181.552,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,1Q2020,Pass,137.368,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2020,Pass,0,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2020,Pass,65.229,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,4Q2020,Pass,70.546,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,1Q2021,Pass,65.811,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2021,Pass,71.736,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2021,Pass,79.716,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,1Q2019,PKM,260.1831565,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2019,PKM,272.2356486,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2019,PKM,253.8543626,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,4Q2019,PKM,242.5084834,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,1Q2020,PKM,183.4896082,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2020,PKM,0,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2020,PKM,87.12978025,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,4Q2020,PKM,94.2319747,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,1Q2021,PKM,87.90718803,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,2Q2021,PKM,95.82151982,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jacksonville,Other,3Q2021,PKM,106.4808224,Jacksonville Transportation Authority (JTA) - Jacksonville Skyway
+840,Jersey City,Light rail,1Q2019,Pass,3713.68,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2019,Pass,4077.679,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2019,Pass,4075.746,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,4Q2019,Pass,3827.055,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,1Q2020,Pass,3212.798,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2020,Pass,842.181,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2020,Pass,1765.173,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,4Q2020,Pass,1863.839,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,1Q2021,Pass,1771.913,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2021,Pass,2347.959,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2021,Pass,2656.792,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,1Q2019,PKM,22693.64827,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2019,PKM,24917.98242,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2019,PKM,24906.1702,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,4Q2019,PKM,23386.46304,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,1Q2020,PKM,19412.06638,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2020,PKM,5088.546954,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2020,PKM,10665.36254,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,4Q2020,PKM,11261.51298,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,1Q2021,PKM,10706.08634,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,2Q2021,PKM,14186.61739,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Jersey City,Light rail,3Q2021,PKM,16052.61914,New Jersey Transit Corporation (NJ TRANSIT) - Hudson-Bergen Line
+840,Kansas City,Tram,1Q2019,Pass,449.646,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2019,Pass,630.036,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2019,Pass,659.652,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,4Q2019,Pass,489.608,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,1Q2020,Pass,382,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2020,Pass,97.464,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2020,Pass,160.131,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,4Q2020,Pass,146.49,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,1Q2021,Pass,140.766,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2021,Pass,270.831,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2021,Pass,352.293,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,1Q2019,PKM,953.1697744,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2019,PKM,1335.564582,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2019,PKM,1398.345249,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,4Q2019,PKM,1037.882127,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,1Q2020,PKM,782.5380345,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2020,PKM,199.6578193,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2020,PKM,328.032979,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,4Q2020,PKM,300.0889965,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,1Q2021,PKM,288.3632172,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,2Q2021,PKM,554.8051267,"Kansas City, City of Missouri (KCMO)"
+840,Kansas City,Tram,3Q2021,PKM,721.6823868,"Kansas City, City of Missouri (KCMO)"
+840,Kenosha (Wisconsin),Tram,1Q2019,Pass,2.666,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2019,Pass,9.752,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2019,Pass,19.07,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,4Q2019,Pass,5.17,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,1Q2020,Pass,1.763,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2020,Pass,0,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2020,Pass,1.473,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,4Q2020,Pass,0.609,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,1Q2021,Pass,1.145,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2021,Pass,5.71,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2021,Pass,10.704,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,1Q2019,PKM,7.079325726,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2019,PKM,25.89556807,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2019,PKM,50.63868777,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,4Q2019,PKM,13.72847487,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,1Q2020,PKM,4.681205866,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2020,PKM,0,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2020,PKM,3.911183347,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,4Q2020,PKM,1.61704729,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,1Q2021,PKM,3.040261326,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,2Q2021,PKM,15.16147788,City of Kenosha (KAT)
+840,Kenosha (Wisconsin),Tram,3Q2021,PKM,28.42179671,City of Kenosha (KAT)
+840,Lewisville (Texas),Light rail,1Q2019,Pass,96.371,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,2Q2019,Pass,93.57,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,3Q2019,Pass,96.055,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,4Q2019,Pass,101.471,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,1Q2020,Pass,78.882,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,2Q2020,Pass,18.48,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,3Q2020,Pass,22.483,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,4Q2020,Pass,24.401,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,1Q2021,Pass,24.044,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,2Q2021,Pass,27.478,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,3Q2021,Pass,37.517,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,1Q2019,PKM,2164.037977,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,2Q2019,PKM,2101.140732,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,3Q2019,PKM,2156.942108,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,4Q2019,PKM,2278.559915,"Denton County Transportation Authority (DCTA) - The ""A Train"""
+840,Lewisville (Texas),Light rail,1Q2020,PKM,1743.70637,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,2Q2020,PKM,408.5050293,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,3Q2020,PKM,496.9923471,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,4Q2020,PKM,539.3902175,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,1Q2021,PKM,531.4986431,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,2Q2021,PKM,607.4080733,Denton County Transportation Authority (DCTA) - The A Train
+840,Lewisville (Texas),Light rail,3Q2021,PKM,829.3226832,Denton County Transportation Authority (DCTA) - The A Train
+840,Los Angeles,Light rail,1Q2019,Pass,14394.868,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2019,Pass,12769.913,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2019,Pass,11311.733,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,4Q2019,Pass,12919.894,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,1Q2020,Pass,12772.275,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2020,Pass,5094.353,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2020,Pass,5738.436,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,4Q2020,Pass,5537.361,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,1Q2021,Pass,5282.441,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2021,Pass,6312.891,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2021,Pass,7286.937,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,1Q2019,PKM,179705.1326,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2019,PKM,159419.2395,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2019,PKM,141215.3608,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,4Q2019,PKM,161291.5981,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,1Q2020,PKM,155627.5646,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2020,PKM,62073.65176,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2020,PKM,69921.67169,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,4Q2020,PKM,67471.61384,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,1Q2021,PKM,64365.46566,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,2Q2021,PKM,76921.28864,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Light rail,3Q2021,PKM,88789.84039,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2019,Pass,10729.429,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2019,Pass,10527.418,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2019,Pass,10236.05,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,4Q2019,Pass,10282.593,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2020,Pass,8991.374,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2020,Pass,4158.248,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2020,Pass,4718.231,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,4Q2020,Pass,4908.671,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2021,Pass,4233.585,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2021,Pass,5028.063,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2021,Pass,5568.465,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2019,PKM,83247.3765,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2019,PKM,81680.01576,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2019,PKM,79419.3529,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,4Q2019,PKM,79780.47022,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2020,PKM,70024.08457,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2020,PKM,32384.09498,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2020,PKM,36745.19674,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,4Q2020,PKM,38228.32787,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,1Q2021,PKM,32970.81337,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,2Q2021,PKM,39158.14299,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Los Angeles,Metro,3Q2021,PKM,43366.74952,Los Angeles County Metropolitan Transportation Authority (LACMTA)
+840,Memphis,Tram,1Q2019,Pass,70.135,City of Memphis (MATA)
+840,Memphis,Tram,2Q2019,Pass,108.003,City of Memphis (MATA)
+840,Memphis,Tram,3Q2019,Pass,113.649,City of Memphis (MATA)
+840,Memphis,Tram,4Q2019,Pass,74.879,City of Memphis (MATA)
+840,Memphis,Tram,1Q2020,Pass,37.03,City of Memphis (MATA)
+840,Memphis,Tram,2Q2020,Pass,15.516,City of Memphis (MATA)
+840,Memphis,Tram,3Q2020,Pass,20.897,City of Memphis (MATA)
+840,Memphis,Tram,4Q2020,Pass,27.601,City of Memphis (MATA)
+840,Memphis,Tram,1Q2021,Pass,31.662,City of Memphis (MATA)
+840,Memphis,Tram,2Q2021,Pass,70.817,City of Memphis (MATA)
+840,Memphis,Tram,3Q2021,Pass,77.763,City of Memphis (MATA)
+840,Memphis,Tram,1Q2019,PKM,137.567249,City of Memphis (MATA)
+840,Memphis,Tram,2Q2019,PKM,211.8439523,City of Memphis (MATA)
+840,Memphis,Tram,3Q2019,PKM,222.9183758,City of Memphis (MATA)
+840,Memphis,Tram,4Q2019,PKM,146.8724323,City of Memphis (MATA)
+840,Memphis,Tram,1Q2020,PKM,72.75218453,City of Memphis (MATA)
+840,Memphis,Tram,2Q2020,PKM,30.48401013,City of Memphis (MATA)
+840,Memphis,Tram,3Q2020,PKM,41.05596544,City of Memphis (MATA)
+840,Memphis,Tram,4Q2020,PKM,54.22719539,City of Memphis (MATA)
+840,Memphis,Tram,1Q2021,PKM,62.2057701,City of Memphis (MATA)
+840,Memphis,Tram,2Q2021,PKM,139.1329045,City of Memphis (MATA)
+840,Memphis,Tram,3Q2021,PKM,152.7795875,City of Memphis (MATA)
+840,Miami,Metro,1Q2019,Pass,4765.004,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2019,Pass,4451.009,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2019,Pass,4310.53,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,4Q2019,Pass,4546.542,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,1Q2020,Pass,4152.777,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2020,Pass,1234.257,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2020,Pass,1928.483,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,4Q2020,Pass,2238.211,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,1Q2021,Pass,2447.008,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2021,Pass,2437.994,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2021,Pass,2267.486,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,1Q2019,PKM,56617.38753,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2019,PKM,52886.52464,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2019,PKM,51217.36466,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,4Q2019,PKM,54021.63993,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,1Q2020,PKM,49342.95643,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2020,PKM,14665.34066,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2020,PKM,22914.07717,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,4Q2020,PKM,26594.23991,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,1Q2021,PKM,29075.14878,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,2Q2021,PKM,28968.04517,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Metro,3Q2021,PKM,26942.08307,County of Miami-Dade (MDT) - Miami Subway
+840,Miami,Other,1Q2019,Pass,2159.702,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2019,Pass,2231.659,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2019,Pass,2179.478,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,4Q2019,Pass,2480.698,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,1Q2020,Pass,2144.371,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2020,Pass,480.64,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2020,Pass,636.287,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,4Q2020,Pass,733.485,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,1Q2021,Pass,818.802,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2021,Pass,889.839,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2021,Pass,1045.081,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,1Q2019,PKM,3264.720141,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2019,PKM,3373.494161,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2019,PKM,3294.614592,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,4Q2019,PKM,3749.954728,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,1Q2020,PKM,3241.544988,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2020,PKM,726.5609277,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2020,PKM,961.8451919,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,4Q2020,PKM,1108.774846,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,1Q2021,PKM,1237.74455,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,2Q2021,PKM,1345.127849,County of Miami-Dade (MDT) - Miami MetroMover
+840,Miami,Other,3Q2021,PKM,1579.799894,County of Miami-Dade (MDT) - Miami MetroMover
+840,Milwaukee,Tram,1Q2019,Pass,143.354,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,2Q2019,Pass,189.961,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,3Q2019,Pass,250.724,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,4Q2019,Pass,176.282,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,1Q2020,Pass,125.919,City of Milwaukee - The HOP
+840,Milwaukee,Tram,2Q2020,Pass,31.994,City of Milwaukee - The HOP
+840,Milwaukee,Tram,3Q2020,Pass,55.216,City of Milwaukee - The HOP
+840,Milwaukee,Tram,4Q2020,Pass,48.174,City of Milwaukee - The HOP
+840,Milwaukee,Tram,1Q2021,Pass,46.722,City of Milwaukee - The HOP
+840,Milwaukee,Tram,2Q2021,Pass,62.567,City of Milwaukee - The HOP
+840,Milwaukee,Tram,3Q2021,Pass,99.327,City of Milwaukee - The HOP
+840,Milwaukee,Tram,1Q2019,PKM,242.9327087,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,2Q2019,PKM,321.914563,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,3Q2019,PKM,424.8856708,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,4Q2019,PKM,298.7336506,"City of Milwaukee - ""The HOP"""
+840,Milwaukee,Tram,1Q2020,PKM,266.5611843,City of Milwaukee - The HOP
+840,Milwaukee,Tram,2Q2020,PKM,67.7289252,City of Milwaukee - The HOP
+840,Milwaukee,Tram,3Q2020,PKM,116.888177,City of Milwaukee - The HOP
+840,Milwaukee,Tram,4Q2020,PKM,101.9807852,City of Milwaukee - The HOP
+840,Milwaukee,Tram,1Q2021,PKM,98.90700891,City of Milwaukee - The HOP
+840,Milwaukee,Tram,2Q2021,PKM,132.4496988,City of Milwaukee - The HOP
+840,Milwaukee,Tram,3Q2021,PKM,210.2678925,City of Milwaukee - The HOP
+840,Minneapolis,Light rail,1Q2019,Pass,5512.582,Metro Transit
+840,Minneapolis,Light rail,2Q2019,Pass,6635.416,Metro Transit
+840,Minneapolis,Light rail,3Q2019,Pass,6964.902,Metro Transit
+840,Minneapolis,Light rail,4Q2019,Pass,6186.542,Metro Transit
+840,Minneapolis,Light rail,1Q2020,Pass,4984.504,Metro Transit
+840,Minneapolis,Light rail,2Q2020,Pass,1336.135,Metro Transit
+840,Minneapolis,Light rail,3Q2020,Pass,1827.199,Metro Transit
+840,Minneapolis,Light rail,4Q2020,Pass,2107.682,Metro Transit
+840,Minneapolis,Light rail,1Q2021,Pass,2267.809,Metro Transit
+840,Minneapolis,Light rail,2Q2021,Pass,2423.162,Metro Transit
+840,Minneapolis,Light rail,3Q2021,Pass,2870.895,Metro Transit
+840,Minneapolis,Light rail,1Q2019,PKM,35241.61819,Metro Transit
+840,Minneapolis,Light rail,2Q2019,PKM,42419.83107,Metro Transit
+840,Minneapolis,Light rail,3Q2019,PKM,44526.21603,Metro Transit
+840,Minneapolis,Light rail,4Q2019,PKM,39550.20552,Metro Transit
+840,Minneapolis,Light rail,1Q2020,PKM,31865.64605,Metro Transit
+840,Minneapolis,Light rail,2Q2020,PKM,8541.833848,Metro Transit
+840,Minneapolis,Light rail,3Q2020,PKM,11681.17762,Metro Transit
+840,Minneapolis,Light rail,4Q2020,PKM,13474.28924,Metro Transit
+840,Minneapolis,Light rail,1Q2021,PKM,14497.97189,Metro Transit
+840,Minneapolis,Light rail,2Q2021,PKM,15491.13465,Metro Transit
+840,Minneapolis,Light rail,3Q2021,PKM,18353.46584,Metro Transit
+840,Morgantown,Other,1Q2019,Pass,486.307,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2019,Pass,179.895,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2019,Pass,478.776,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,4Q2019,Pass,599.651,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,1Q2020,Pass,405.835,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2020,Pass,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2020,Pass,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,4Q2020,Pass,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,1Q2021,Pass,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2021,Pass,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2021,Pass,422.383,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,1Q2019,PKM,1485.281491,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2019,PKM,549.4362898,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2019,PKM,1462.280269,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,4Q2019,PKM,1831.457353,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,1Q2020,PKM,1239.372844,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2020,PKM,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2020,PKM,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,4Q2020,PKM,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,1Q2021,PKM,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,2Q2021,PKM,0,West Virginia University - Morgantown Personal Rapid Transit
+840,Morgantown,Other,3Q2021,PKM,1289.90851,West Virginia University - Morgantown Personal Rapid Transit
+840,New Orleans,Tram,1Q2019,Pass,1640.453,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,2Q2019,Pass,1977.986,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,3Q2019,Pass,1172.311,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,4Q2019,Pass,498.576,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,1Q2020,Pass,991.67,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,2Q2020,Pass,148.625,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,3Q2020,Pass,382.99,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,4Q2020,Pass,493.242,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,1Q2019,PKM,6151.30865,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,2Q2019,PKM,7416.977135,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,3Q2019,PKM,4395.887474,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,4Q2019,PKM,1869.541439,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,1Q2020,PKM,3718.526681,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,2Q2020,PKM,557.308407,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,3Q2020,PKM,1436.121425,New Orleans Regional Transit Authority (NORTA)
+840,New Orleans,Tram,4Q2020,PKM,1849.540207,New Orleans Regional Transit Authority (NORTA)
+840,New York,Metro,1Q2019,Pass,616749.22,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2019,Pass,692465.601,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2019,Pass,689640.399,MTA New York City Transit (NYCT)
+840,New York,Metro,4Q2019,Pass,725104.925,MTA New York City Transit (NYCT)
+840,New York,Metro,1Q2020,Pass,578950.662,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2020,Pass,86711.78,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2020,Pass,203347.497,MTA New York City Transit (NYCT)
+840,New York,Metro,4Q2020,Pass,241544.086,MTA New York City Transit (NYCT)
+840,New York,Metro,1Q2021,Pass,230538.38,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2021,Pass,312814.906,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2021,Pass,357961.302,MTA New York City Transit (NYCT)
+840,New York,Metro,1Q2019,PKM,3828499.307,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2019,PKM,4298512.243,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2019,PKM,4280974.671,MTA New York City Transit (NYCT)
+840,New York,Metro,4Q2019,PKM,4501122.357,MTA New York City Transit (NYCT)
+840,New York,Metro,1Q2020,PKM,3916241.056,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2020,PKM,586551.2473,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2020,PKM,1375519.312,MTA New York City Transit (NYCT)
+840,New York,Metro,4Q2020,PKM,1633895.474,MTA New York City Transit (NYCT)
+840,New York,Metro,1Q2021,PKM,1559448.72,MTA New York City Transit (NYCT)
+840,New York,Metro,2Q2021,PKM,2115998.233,MTA New York City Transit (NYCT)
+840,New York,Metro,3Q2021,PKM,2421385.516,MTA New York City Transit (NYCT)
+840,Newark,Light rail,1Q2019,Pass,1285.501,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2019,Pass,1382.34,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2019,Pass,1456.907,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,4Q2019,Pass,1510.595,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,1Q2020,Pass,1211.123,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2020,Pass,258.645,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2020,Pass,723.447,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,4Q2020,Pass,648.607,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,1Q2021,Pass,609.929,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2021,Pass,699.213,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2021,Pass,806.581,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,1Q2019,PKM,4752.67303,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2019,PKM,5110.700059,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2019,PKM,5386.384458,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,4Q2019,PKM,5584.876337,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,1Q2020,PKM,4388.808035,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2020,PKM,937.2650458,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2020,PKM,2621.591701,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,4Q2020,PKM,2350.390186,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,1Q2021,PKM,2210.230749,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,2Q2021,PKM,2533.773723,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Newark,Light rail,3Q2021,PKM,2922.848607,New Jersey Transit Corporation (NJ TRANSIT) - Newark Subway
+840,Norfolk (Virginia),Light rail,1Q2019,Pass,334.067,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,2Q2019,Pass,344.399,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,3Q2019,Pass,345.366,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,4Q2019,Pass,321.29,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,1Q2020,Pass,280.106,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,2Q2020,Pass,97.24,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,3Q2020,Pass,140.625,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,4Q2020,Pass,132.335,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,1Q2021,Pass,126.615,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,2Q2021,Pass,145.684,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,3Q2021,Pass,176.891,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,1Q2019,PKM,1805.245236,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,2Q2019,PKM,1861.07773,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,3Q2019,PKM,1866.303245,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,4Q2019,PKM,1736.200349,"Transportation District Commission of Hampton Roads (HRT) - ""The Tide"""
+840,Norfolk (Virginia),Light rail,1Q2020,PKM,1454.775902,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,2Q2020,PKM,505.0316975,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,3Q2020,PKM,730.3587255,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,4Q2020,PKM,687.3032671,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,1Q2021,PKM,657.5955202,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,2Q2021,PKM,756.6334618,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,Norfolk (Virginia),Light rail,3Q2021,PKM,918.7120733,Transportation District Commission of Hampton Roads (HRT) - The Tide
+840,North Little Rock,Tram,1Q2019,Pass,26.069,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2019,Pass,34.999,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2019,Pass,37.972,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,4Q2019,Pass,27.842,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,1Q2020,Pass,17.196,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2020,Pass,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2020,Pass,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,4Q2020,Pass,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,1Q2021,Pass,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2021,Pass,2.185,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2021,Pass,10.631,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,1Q2019,PKM,107.766943,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2019,PKM,144.6827741,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2019,PKM,156.9728935,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,4Q2019,PKM,115.0963684,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,1Q2020,PKM,71.28876661,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2020,PKM,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2020,PKM,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,4Q2020,PKM,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,1Q2021,PKM,0,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,2Q2021,PKM,9.05826675,Central Arkansas Transit Authority (CATA)
+840,North Little Rock,Tram,3Q2021,PKM,44.07250976,Central Arkansas Transit Authority (CATA)
+840,Oakland,Other,1Q2019,Pass,188.476,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2019,Pass,219.659,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2019,Pass,223.861,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,4Q2019,Pass,214.475,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,1Q2020,Pass,125.241,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2020,Pass,9.546,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2020,Pass,20.156,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,4Q2020,Pass,21.145,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,1Q2021,Pass,19.118,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2021,Pass,52.562,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2021,Pass,90.068,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,1Q2019,PKM,964.5638514,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2019,PKM,1124.149128,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2019,PKM,1145.653708,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,4Q2019,PKM,1097.618965,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,1Q2020,PKM,640.946016,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2020,PKM,48.85357566,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2020,PKM,103.1523854,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,4Q2020,PKM,108.2137919,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,1Q2021,PKM,97.84021154,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,2Q2021,PKM,268.9966105,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland,Other,3Q2021,PKM,460.9411117,San Francisco Bay Area Rapid Transit District (BART) - Oakland Airport Connector
+840,Oakland / San Francisco,Metro,1Q2019,Pass,30033.202,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2019,Pass,32007.69,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2019,Pass,32054.095,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,4Q2019,Pass,30358.852,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,1Q2020,Pass,23762.421,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2020,Pass,2523.51,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2020,Pass,3803.738,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,4Q2020,Pass,4034.624,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,1Q2021,Pass,3782.479,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2021,Pass,5504.432,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2021,Pass,7968.417,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,1Q2019,PKM,678560.7114,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2019,PKM,723171.6716,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2019,PKM,724220.1316,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,4Q2019,PKM,685918.3449,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,1Q2020,PKM,533970.4574,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2020,PKM,56706.3343,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2020,PKM,85474.6122,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,4Q2020,PKM,90662.90101,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,1Q2021,PKM,84996.89665,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,2Q2021,PKM,123691.2717,San Francisco Bay Area Rapid Transit District (BART)
+840,Oakland / San Francisco,Metro,3Q2021,PKM,179060.007,San Francisco Bay Area Rapid Transit District (BART)
+840,Oceanside (California),Light rail,1Q2019,Pass,592.925,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2019,Pass,632.476,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2019,Pass,637.718,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,4Q2019,Pass,612.73,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,1Q2020,Pass,538.456,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2020,Pass,277.187,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2020,Pass,315.109,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,4Q2020,Pass,306.709,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,1Q2021,Pass,306.674,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2021,Pass,296.943,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2021,Pass,317.454,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,1Q2019,PKM,8190.243247,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2019,PKM,8736.572564,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2019,PKM,8808.981815,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,4Q2019,PKM,8463.815397,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,1Q2020,PKM,6707.338262,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2020,PKM,3452.811317,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2020,PKM,3925.191013,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,4Q2020,PKM,3820.55546,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,1Q2021,PKM,3820.119479,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,2Q2021,PKM,3698.904173,North County Transit District (NCTD) - North County Sprinter
+840,Oceanside (California),Light rail,3Q2021,PKM,3954.401772,North County Transit District (NCTD) - North County Sprinter
+840,Philadelphia,Metro,1Q2019,Pass,22765.794,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,2Q2019,Pass,22381.709,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,3Q2019,Pass,21487.952,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,4Q2019,Pass,23716.283,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,1Q2020,Pass,20369.526,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,2Q2020,Pass,4589.087,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,3Q2020,Pass,6861.883,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,4Q2020,Pass,6802.321,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,1Q2021,Pass,6566.401,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,2Q2021,Pass,8412.231,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,3Q2021,Pass,9645.824,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,1Q2019,PKM,161294.7038,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,2Q2019,PKM,158573.4775,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,3Q2019,PKM,152241.2464,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,4Q2019,PKM,168028.8788,SEPTA - Subway & Norristown High-Speed Line
+840,Philadelphia,Metro,1Q2020,PKM,145071.219,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,2Q2020,PKM,32683.35479,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,3Q2020,PKM,48870.14707,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,4Q2020,PKM,48445.9481,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,1Q2021,PKM,46765.73218,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,2Q2021,PKM,59911.68404,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Metro,3Q2021,PKM,68697.30037,SEPTA - Subway & Norristown High-Speed Line 
+840,Philadelphia,Other,1Q2019,Pass,2697.865,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2019,Pass,2802.354,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2019,Pass,2789.062,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,4Q2019,Pass,2818.193,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,1Q2020,Pass,2342.376,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2020,Pass,337.14,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2020,Pass,619.95,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,4Q2020,Pass,649.984,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,1Q2021,Pass,623.959,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2021,Pass,828.867,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2021,Pass,1060.373,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,1Q2019,PKM,38828.12278,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2019,PKM,40331.94588,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2019,PKM,40140.6452,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,4Q2019,PKM,40559.90341,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,1Q2020,PKM,32346.11099,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2020,PKM,4655.600919,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2020,PKM,8560.953283,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,4Q2020,PKM,8975.695877,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,1Q2021,PKM,8616.313976,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,2Q2021,PKM,11445.90961,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Other,3Q2021,PKM,14642.79977,Port Authority Transit Corporation (PATCO)  - PATCO Speedline
+840,Philadelphia,Tram,1Q2019,Pass,5693.927,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2019,Pass,5845.839,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2019,Pass,5546.852,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,4Q2019,Pass,6440.669,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,1Q2020,Pass,5822.856,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2020,Pass,1531.695,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2020,Pass,1793.008,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,4Q2020,Pass,1797.655,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,1Q2021,Pass,1739.44,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2021,Pass,2122.692,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2021,Pass,2293.516,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,1Q2019,PKM,23401.65558,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2019,PKM,24026.00365,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2019,PKM,22797.18726,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,4Q2019,PKM,26470.71479,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,1Q2020,PKM,24091.7884,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2020,PKM,6337.314857,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2020,PKM,7418.484905,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,4Q2020,PKM,7437.711645,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,1Q2021,PKM,7196.849865,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,2Q2021,PKM,8782.536698,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Philadelphia,Tram,3Q2021,PKM,9489.312834,Southeastern Pennsylvania Transportation Authority (SEPTA)
+840,Phoenix,Light rail,1Q2019,Pass,3826.675,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2019,Pass,3668.545,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2019,Pass,3657.37,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,4Q2019,Pass,3907.617,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,1Q2020,Pass,3543.976,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2020,Pass,1717.508,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2020,Pass,1610.474,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,4Q2020,Pass,1685.229,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,1Q2021,Pass,1570.124,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2021,Pass,1715.772,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2021,Pass,1880.241,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,1Q2019,PKM,44468.11156,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2019,PKM,42630.55219,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2019,PKM,42500.69242,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,4Q2019,PKM,45408.70303,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,1Q2020,PKM,40265.87374,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2020,PKM,19513.94713,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2020,PKM,18297.85042,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,4Q2020,PKM,19147.20025,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,1Q2021,PKM,17839.40262,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,2Q2021,PKM,19494.22308,"Valley Metro Rail, Inc. (VMR)"
+840,Phoenix,Light rail,3Q2021,PKM,21362.88358,"Valley Metro Rail, Inc. (VMR)"
+840,Pittsburgh,Light rail,1Q2019,Pass,1682.73,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2019,Pass,1927.446,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2019,Pass,1963.784,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,4Q2019,Pass,1850.037,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,1Q2020,Pass,1528.852,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2020,Pass,229.744,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2020,Pass,327.991,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,4Q2020,Pass,347.716,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,1Q2021,Pass,330.874,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2021,Pass,453.54,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2021,Pass,607.761,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,1Q2019,PKM,10921.9764,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2019,PKM,12510.3372,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2019,PKM,12746.19368,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,4Q2019,PKM,12007.90409,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,1Q2020,PKM,9920.012788,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2020,PKM,1490.702447,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2020,PKM,2128.181743,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,4Q2020,PKM,2256.168136,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,1Q2021,PKM,2146.888195,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,2Q2021,PKM,2942.811076,Port Authority of Allegheny County (Port Authority)
+840,Pittsburgh,Light rail,3Q2021,PKM,3943.479743,Port Authority of Allegheny County (Port Authority)
+840,Portland (Oregon),Light rail,1Q2019,Pass,9260.27,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2019,Pass,9970.13,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2019,Pass,9578.4,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,4Q2019,Pass,9579.27,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,1Q2020,Pass,8252.59,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2020,Pass,3369.97,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2020,Pass,3894.49,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,4Q2020,Pass,3651.77,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,1Q2021,Pass,3439.19,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2021,Pass,3756.24,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2021,Pass,4356.94,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,1Q2019,PKM,79741.06968,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2019,PKM,85853.74196,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2019,PKM,82480.5175,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,4Q2019,PKM,82488.00915,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,1Q2020,PKM,69795.48411,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2020,PKM,28501.1963,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2020,PKM,32937.27362,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,4Q2020,PKM,30884.49263,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,1Q2021,PKM,29086.61778,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,2Q2021,PKM,31768.03758,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Light rail,3Q2021,PKM,36848.3999,Tri-County Metropolitan Transportation District of Oregon (TriMet)
+840,Portland (Oregon),Tram,1Q2019,Pass,1130.102,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2019,Pass,1027.987,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2019,Pass,908.432,City of Portland (PBOT)
+840,Portland (Oregon),Tram,4Q2019,Pass,1031.073,City of Portland (PBOT)
+840,Portland (Oregon),Tram,1Q2020,Pass,932.498,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2020,Pass,282.482,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2020,Pass,442.661,City of Portland (PBOT)
+840,Portland (Oregon),Tram,4Q2020,Pass,369.722,City of Portland (PBOT)
+840,Portland (Oregon),Tram,1Q2021,Pass,329.917,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2021,Pass,422.036,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2021,Pass,500.226,City of Portland (PBOT)
+840,Portland (Oregon),Tram,1Q2019,PKM,2367.243808,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2019,PKM,2153.341787,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2019,PKM,1902.907903,City of Portland (PBOT)
+840,Portland (Oregon),Tram,4Q2019,PKM,2159.806084,City of Portland (PBOT)
+840,Portland (Oregon),Tram,1Q2020,PKM,1950.918231,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2020,PKM,590.9924564,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2020,PKM,926.1096699,City of Portland (PBOT)
+840,Portland (Oregon),Tram,4Q2020,PKM,773.5109245,City of Portland (PBOT)
+840,Portland (Oregon),Tram,1Q2021,PKM,690.2332122,City of Portland (PBOT)
+840,Portland (Oregon),Tram,2Q2021,PKM,882.9592411,City of Portland (PBOT)
+840,Portland (Oregon),Tram,3Q2021,PKM,1046.543824,City of Portland (PBOT)
+840,Sacramento,Light rail,1Q2019,Pass,2648.024,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2019,Pass,2472.021,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2019,Pass,2755.069,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,4Q2019,Pass,2834.935,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,1Q2020,Pass,2447.491,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2020,Pass,951.311,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2020,Pass,1032.206,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,4Q2020,Pass,928.191,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,1Q2021,Pass,882.347,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2021,Pass,1003.953,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2021,Pass,1064.172,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,1Q2019,PKM,27087.39724,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2019,PKM,25287.01205,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2019,PKM,28182.39125,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,4Q2019,PKM,28999.36348,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,1Q2020,PKM,23281.72601,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2020,PKM,9049.333399,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2020,PKM,9818.846024,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,4Q2020,PKM,8829.404702,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,1Q2021,PKM,8393.314254,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,2Q2021,PKM,9550.089733,Sacramento Regional Transit District (Sacramento RT)
+840,Sacramento,Light rail,3Q2021,PKM,10122.92218,Sacramento Regional Transit District (Sacramento RT)
+840,Salt Lake City,Light rail,1Q2019,Pass,4130.677,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2019,Pass,4222.791,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2019,Pass,4331.092,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,4Q2019,Pass,4443.448,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,1Q2020,Pass,3654.33,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2020,Pass,1358.071,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2020,Pass,1594.256,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,4Q2020,Pass,1640.707,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,1Q2021,Pass,1695.181,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2021,Pass,1853.257,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2021,Pass,2337.292,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,1Q2019,PKM,32251.80532,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2019,PKM,32971.01982,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2019,PKM,33816.62038,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,4Q2019,PKM,34693.88186,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,1Q2020,PKM,27897.98168,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2020,PKM,10367.82115,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2020,PKM,12170.91086,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,4Q2020,PKM,12525.5283,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,1Q2021,PKM,12941.39513,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,2Q2021,PKM,14148.18307,Utah Transit Authority (UTA)
+840,Salt Lake City,Light rail,3Q2021,PKM,17843.41573,Utah Transit Authority (UTA)
+840,San Diego,Light rail,1Q2019,Pass,8885.513,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2019,Pass,9341.684,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2019,Pass,10264.114,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,4Q2019,Pass,9555.881,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,1Q2020,Pass,8202.369,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2020,Pass,3980.663,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2020,Pass,4751.4,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,4Q2020,Pass,4795.265,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,1Q2021,Pass,4406.226,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2021,Pass,5563.446,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2021,Pass,6531.603,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,1Q2019,PKM,84145.81074,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2019,PKM,88465.75025,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2019,PKM,97201.16262,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,4Q2019,PKM,90494.1959,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,1Q2020,PKM,80136.99152,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2020,PKM,38891.00296,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2020,PKM,46421.08902,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,4Q2020,PKM,46849.64924,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,1Q2021,PKM,43048.7455,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,2Q2021,PKM,54354.76323,San Diego Metropolitan Transit System (MTS)
+840,San Diego,Light rail,3Q2021,PKM,63813.63899,San Diego Metropolitan Transit System (MTS)
+840,San Francisco,Light rail,1Q2019,Pass,12209.131,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2019,Pass,12522.48,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2019,Pass,13442.64,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,4Q2019,Pass,12773.699,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,1Q2020,Pass,12257.006,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2020,Pass,0,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2020,Pass,0,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,4Q2020,Pass,33.314,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,1Q2021,Pass,904.984,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2021,Pass,2657.654,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2021,Pass,5365.053,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,1Q2019,PKM,53849.07069,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2019,PKM,55231.11438,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2019,PKM,59289.53269,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,4Q2019,PKM,56339.13015,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,1Q2020,PKM,54089.81465,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2020,PKM,0,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2020,PKM,0,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,4Q2020,PKM,147.013723,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,1Q2021,PKM,3993.668341,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,2Q2021,PKM,11728.1506,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Light rail,3Q2021,PKM,23675.82445,City and County of San Francisco (SFMTA) (MUNI)
+840,San Francisco,Other,1Q2019,Pass,1405.511,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2019,Pass,1423.708,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2019,Pass,1058.851,MUNI San Francisco Cable Car
+840,San Francisco,Other,4Q2019,Pass,927.389,MUNI San Francisco Cable Car
+840,San Francisco,Other,1Q2020,Pass,1317.658,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2020,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2020,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,4Q2020,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,1Q2021,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2021,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2021,Pass,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,1Q2019,PKM,2932.837981,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2019,PKM,2970.80912,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2019,PKM,2209.472875,MUNI San Francisco Cable Car
+840,San Francisco,Other,4Q2019,PKM,1935.155031,MUNI San Francisco Cable Car
+840,San Francisco,Other,1Q2020,PKM,2755.243252,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2020,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2020,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,4Q2020,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,1Q2021,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,2Q2021,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Other,3Q2021,PKM,0,MUNI San Francisco Cable Car
+840,San Francisco,Tram,1Q2019,Pass,1814.773,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2019,Pass,1847.162,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2019,Pass,2326.016,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,4Q2019,Pass,2135.09,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,1Q2020,Pass,1500.548,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2020,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2020,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,4Q2020,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,1Q2021,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2021,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2021,Pass,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,1Q2019,PKM,4197.175261,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2019,PKM,4272.083974,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2019,PKM,5379.569132,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,4Q2019,PKM,4937.998818,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,1Q2020,PKM,3482.274146,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2020,PKM,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2020,PKM,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,4Q2020,PKM,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,1Q2021,PKM,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,2Q2021,PKM,0,MUNI Heritage Streetcar Line
+840,San Francisco,Tram,3Q2021,PKM,0,MUNI Heritage Streetcar Line
+840,San Jose,Light rail,1Q2019,Pass,1986.124,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2019,Pass,2079.06,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2019,Pass,2154.437,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,4Q2019,Pass,2131.15,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,1Q2020,Pass,1704.386,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2020,Pass,291.605,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2020,Pass,574.065,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,4Q2020,Pass,605.138,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,1Q2021,Pass,591.534,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2021,Pass,397.359,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2021,Pass,152.698,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,1Q2019,PKM,18704.07426,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2019,PKM,19579.28741,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2019,PKM,20289.14088,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,4Q2019,PKM,20069.83847,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,1Q2020,PKM,14643.44115,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2020,PKM,2505.360086,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2020,PKM,4932.149784,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,4Q2020,PKM,5199.117271,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,1Q2021,PKM,5082.236838,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,2Q2021,PKM,3413.958535,Santa Clara Valley Transportation Authority (VTA)
+840,San Jose,Light rail,3Q2021,PKM,1311.923576,Santa Clara Valley Transportation Authority (VTA)
+840,San Juan,Metro,1Q2019,Pass,1413.376,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2019,Pass,1238.484,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2019,Pass,1237.334,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,4Q2019,Pass,1345.315,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,1Q2020,Pass,948.501,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2020,Pass,0,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2020,Pass,31.619,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,4Q2020,Pass,157.424,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,1Q2021,Pass,290.658,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2021,Pass,356.327,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2021,Pass,460.305,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,1Q2019,PKM,10913.31549,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2019,PKM,9562.895237,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2019,PKM,9554.015567,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,4Q2019,PKM,10387.78572,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,1Q2020,PKM,7241.376437,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2020,PKM,0,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2020,PKM,241.396774,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,4Q2020,PKM,1201.861088,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,1Q2021,PKM,2219.04246,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,2Q2021,PKM,2720.395594,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,San Juan,Metro,3Q2021,PKM,3514.220629,Alternativa de Transporte Integrado - ATI (PRHTA) - Tren Urbano
+840,Seattle,Light rail,1Q2019,Pass,6379.583,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,2Q2019,Pass,6514.287,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,3Q2019,Pass,5998.784,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,4Q2019,Pass,5869.03,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,1Q2020,Pass,4408.79,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,2Q2020,Pass,978.85,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,3Q2020,Pass,1181.027,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,4Q2020,Pass,1331.455,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,1Q2021,Pass,1365.367,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,2Q2021,Pass,1774.152,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,3Q2021,Pass,3070.562,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,1Q2019,PKM,67777.05987,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,2Q2019,PKM,69208.16298,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,3Q2019,PKM,63731.42921,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,4Q2019,PKM,62352.91518,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light rail
+840,Seattle,Light rail,1Q2020,PKM,44721.31095,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,2Q2020,PKM,9929.131399,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,3Q2020,PKM,11979.94817,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,4Q2020,PKM,13505.84017,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,1Q2021,PKM,13849.8323,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,2Q2021,PKM,17996.41245,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Light rail,3Q2021,PKM,31146.7677,Central Puget Sound Regional Transit Authority (Sound Transit) - Link Light Rail
+840,Seattle,Other,1Q2019,Pass,296.787,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2019,Pass,520.826,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2019,Pass,717.711,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,4Q2019,Pass,403.9,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,1Q2020,Pass,211.203,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2020,Pass,4.044,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2020,Pass,39.832,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,4Q2020,Pass,43.27,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,1Q2021,Pass,51.546,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2021,Pass,125.381,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2021,Pass,206.661,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,1Q2019,PKM,429.8680715,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2019,PKM,754.3675034,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2019,PKM,1039.536919,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,4Q2019,PKM,585.0111834,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,1Q2020,PKM,305.9076924,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2020,PKM,5.857353864,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2020,PKM,57.69290779,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,4Q2020,PKM,62.67252762,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,1Q2021,PKM,74.65953568,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,2Q2021,PKM,181.6025927,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Other,3Q2021,PKM,299.3290324,City of Seattle (SMS) - Seattle Monorail
+840,Seattle,Tram,1Q2019,Pass,434.768,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2019,Pass,473.637,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2019,Pass,494.933,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,4Q2019,Pass,460.071,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,1Q2020,Pass,382.812,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2020,Pass,99.812,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2020,Pass,124.062,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,4Q2020,Pass,142.757,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,1Q2021,Pass,151.258,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2021,Pass,176.752,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2021,Pass,234.36,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,1Q2019,PKM,761.4721189,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2019,PKM,829.5490238,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2019,PKM,866.8477906,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,4Q2019,PKM,805.7889247,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,1Q2020,PKM,766.7049194,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2020,PKM,199.9058322,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2020,PKM,248.4743052,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,4Q2020,PKM,285.9170929,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,1Q2021,PKM,302.9430966,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,2Q2021,PKM,354.0030822,King County Department of Metro Transit (KCM)
+840,Seattle,Tram,3Q2021,PKM,469.3817459,King County Department of Metro Transit (KCM)
+840,St. Louis,Light rail,1Q2019,Pass,2986.04,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2019,Pass,3528.082,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2019,Pass,3469.726,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,4Q2019,Pass,3103.824,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,1Q2020,Pass,2714.743,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2020,Pass,1221.886,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2020,Pass,1435.421,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,4Q2020,Pass,1374.195,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,1Q2021,Pass,1220.884,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2021,Pass,1441.585,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2021,Pass,1650.324,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,1Q2019,PKM,32547.05351,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2019,PKM,38455.16927,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2019,PKM,37819.10417,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,4Q2019,PKM,33830.86825,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,1Q2020,PKM,29486.00643,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2020,PKM,13271.43617,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2020,PKM,15590.73284,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,4Q2020,PKM,14925.73058,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,1Q2021,PKM,13260.55301,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,2Q2021,PKM,15657.68273,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,St. Louis,Light rail,3Q2021,PKM,17924.88794,Bi-State Development Agency of the Missouri-Illinois Metropolitan District (METRO)
+840,Staten Island,Metro,1Q2019,Pass,1938.6,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2019,Pass,2039.323,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2019,Pass,1814.82,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,4Q2019,Pass,1939.106,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,1Q2020,Pass,1594.617,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2020,Pass,153.413,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2020,Pass,370.432,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,4Q2020,Pass,595.479,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,1Q2021,Pass,480.852,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2021,Pass,612.482,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2021,Pass,724.362,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,1Q2019,PKM,19458.29552,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2019,PKM,20469.28175,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2019,PKM,18215.87944,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,4Q2019,PKM,19463.37439,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,1Q2020,PKM,16005.63749,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2020,PKM,1539.851177,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2020,PKM,3718.134389,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,4Q2020,PKM,5976.996988,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,1Q2021,PKM,4826.452243,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,2Q2021,PKM,6147.661074,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Staten Island,Metro,3Q2021,PKM,7270.633376,Staten Island Rapid Transit Operating Authority (SIRTOA)
+840,Tacoma (Washington),Tram,1Q2019,Pass,228.474,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2019,Pass,241.353,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2019,Pass,212.257,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,4Q2019,Pass,254.873,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,1Q2020,Pass,213.129,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2020,Pass,69.579,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2020,Pass,78.799,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,4Q2020,Pass,77.764,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,1Q2021,Pass,77.43,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2021,Pass,83.715,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2021,Pass,95.373,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,1Q2019,PKM,333.2395742,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2019,PKM,352.0241733,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2019,PKM,309.5863525,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,4Q2019,PKM,371.7436995,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,1Q2020,PKM,304.6156578,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2020,PKM,99.44612349,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2020,PKM,112.6238532,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,4Q2020,PKM,111.1445745,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,1Q2021,PKM,110.6672033,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,2Q2021,PKM,119.6500701,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tacoma (Washington),Tram,3Q2021,PKM,136.3123232,Central Puget Sound Regional Transit Authority (Sound Transit) - Seattle Streetcar
+840,Tampa,Tram,1Q2019,Pass,231.49,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2019,Pass,221.087,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2019,Pass,222.5,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,4Q2019,Pass,255.9,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,1Q2020,Pass,214.767,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2020,Pass,42.735,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2020,Pass,61.237,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,4Q2020,Pass,125.647,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,1Q2021,Pass,179.65,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2021,Pass,212.548,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2021,Pass,217.134,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,1Q2019,PKM,517.8391021,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2019,PKM,494.5677721,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2019,PKM,497.7286285,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,4Q2019,PKM,572.4438473,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,1Q2020,PKM,454.196488,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2020,PKM,90.37741791,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2020,PKM,129.5060709,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,4Q2020,PKM,265.7225092,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,1Q2021,PKM,379.9298731,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,2Q2021,PKM,449.503672,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Tampa,Tram,3Q2021,PKM,459.2022993,Hillsborough Area Regional Transit Authority (HART) - TECO Line
+840,Trenton (New Jersey),Light rail,1Q2019,Pass,616.234,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2019,Pass,679.992,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2019,Pass,707.274,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,4Q2019,Pass,650.327,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,1Q2020,Pass,562.495,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2020,Pass,252.867,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2020,Pass,451.647,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,4Q2020,Pass,338.447,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,1Q2021,Pass,300.347,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2021,Pass,385.677,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2021,Pass,406.22,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,1Q2019,PKM,14786.49634,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2019,PKM,16316.36556,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2019,PKM,16970.99545,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,4Q2019,PKM,15604.55574,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,1Q2020,PKM,14089.42518,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2020,PKM,6333.83528,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2020,PKM,11312.89454,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,4Q2020,PKM,8477.45079,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,1Q2021,PKM,7523.118576,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,2Q2021,PKM,9660.472063,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Trenton (New Jersey),Light rail,3Q2021,PKM,10175.03497,New Jersey Transit Corporation (NJ TRANSIT) - The River LINE
+840,Tucson,Tram,1Q2019,Pass,253.992,City of Tucson (COT)
+840,Tucson,Tram,2Q2019,Pass,182.729,City of Tucson (COT)
+840,Tucson,Tram,3Q2019,Pass,181.906,City of Tucson (COT)
+840,Tucson,Tram,4Q2019,Pass,254.515,City of Tucson (COT)
+840,Tucson,Tram,1Q2020,Pass,199.151,City of Tucson (COT)
+840,Tucson,Tram,2Q2020,Pass,46.69,City of Tucson (COT)
+840,Tucson,Tram,3Q2020,Pass,62.273,City of Tucson (COT)
+840,Tucson,Tram,4Q2020,Pass,86.736,City of Tucson (COT)
+840,Tucson,Tram,1Q2021,Pass,126.084,City of Tucson (COT)
+840,Tucson,Tram,2Q2021,Pass,163.726,City of Tucson (COT)
+840,Tucson,Tram,3Q2021,Pass,247.953,City of Tucson (COT)
+840,Tucson,Tram,1Q2019,PKM,640.9757489,City of Tucson (COT)
+840,Tucson,Tram,2Q2019,PKM,461.1360106,City of Tucson (COT)
+840,Tucson,Tram,3Q2019,PKM,459.0590829,City of Tucson (COT)
+840,Tucson,Tram,4Q2019,PKM,642.2955948,City of Tucson (COT)
+840,Tucson,Tram,1Q2020,PKM,464.727422,City of Tucson (COT)
+840,Tucson,Tram,2Q2020,PKM,108.9531227,City of Tucson (COT)
+840,Tucson,Tram,3Q2020,PKM,145.3167232,City of Tucson (COT)
+840,Tucson,Tram,4Q2020,PKM,202.4021856,City of Tucson (COT)
+840,Tucson,Tram,1Q2021,PKM,294.2224356,City of Tucson (COT)
+840,Tucson,Tram,2Q2021,PKM,382.0616612,City of Tucson (COT)
+840,Tucson,Tram,3Q2021,PKM,578.6089875,City of Tucson (COT)
+840,Washington,Metro,1Q2019,Pass,53340.342,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2019,Pass,63354.982,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2019,Pass,61695.915,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,4Q2019,Pass,59856.832,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,1Q2020,Pass,48723.3,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2020,Pass,4264.667,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2020,Pass,7332.359,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,4Q2020,Pass,8290.413,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,1Q2021,Pass,8056.675,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2021,Pass,12870.754,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2021,Pass,18187.696,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,1Q2019,PKM,492436.9124,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2019,PKM,584891.8577,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2019,PKM,569575.3861,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,4Q2019,PKM,552597.0106,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,1Q2020,PKM,442927.8732,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2020,PKM,38768.71813,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2020,PKM,66656.12094,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,4Q2020,PKM,75365.48218,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,1Q2021,PKM,73240.64509,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,2Q2021,PKM,117003.8913,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Metro,3Q2021,PKM,165338.5035,Washington Metropolitan Area Transit Authority (WMATA)
+840,Washington,Tram,1Q2019,Pass,297.147,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2019,Pass,299.032,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2019,Pass,293.753,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,4Q2019,Pass,203.274,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,1Q2020,Pass,172.569,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2020,Pass,43.834,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2020,Pass,84.928,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,4Q2020,Pass,85.895,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,1Q2021,Pass,66.684,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2021,Pass,97.135,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2021,Pass,62.544,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,1Q2019,PKM,371.4261365,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2019,PKM,373.7823382,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2019,PKM,367.1837235,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,4Q2019,PKM,254.0872917,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,1Q2020,PKM,213.6794564,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2020,PKM,54.27640708,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2020,PKM,105.1600744,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,4Q2020,PKM,106.3574391,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,1Q2021,PKM,82.56987565,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,2Q2021,PKM,120.2751015,DDOT - Progressive Transportation Services Administration - DC Streetcar
+840,Washington,Tram,3Q2021,PKM,77.4436192,DDOT - Progressive Transportation Services Administration - DC Streetcar
